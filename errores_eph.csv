@@ -1,0 +1,1871 @@
+codigo,aglo,estimacion,periodo,variable,value
+3,Bahía Blanca - Cerri,6000,201403,desvio,1349
+3,Bahía Blanca - Cerri,6000,201403,cv,22.5
+3,Bahía Blanca - Cerri,7000,201403,desvio,1408
+3,Bahía Blanca - Cerri,7000,201403,cv,20.1
+3,Bahía Blanca - Cerri,8000,201403,desvio,1461
+3,Bahía Blanca - Cerri,8000,201403,cv,18.3
+3,Bahía Blanca - Cerri,9000,201403,desvio,1509
+3,Bahía Blanca - Cerri,9000,201403,cv,16.8
+3,Bahía Blanca - Cerri,10000,201403,desvio,1554
+3,Bahía Blanca - Cerri,10000,201403,cv,15.5
+3,Bahía Blanca - Cerri,11000,201403,desvio,1596
+3,Bahía Blanca - Cerri,11000,201403,cv,14.5
+3,Bahía Blanca - Cerri,12000,201403,desvio,1635
+3,Bahía Blanca - Cerri,12000,201403,cv,13.6
+3,Bahía Blanca - Cerri,14000,201403,desvio,1707
+3,Bahía Blanca - Cerri,14000,201403,cv,12.2
+3,Bahía Blanca - Cerri,16000,201403,desvio,1771
+3,Bahía Blanca - Cerri,16000,201403,cv,11.1
+3,Bahía Blanca - Cerri,18000,201403,desvio,1830
+3,Bahía Blanca - Cerri,18000,201403,cv,10.2
+3,Bahía Blanca - Cerri,20000,201403,desvio,1884
+3,Bahía Blanca - Cerri,20000,201403,cv,9.4
+3,Bahía Blanca - Cerri,24000,201403,desvio,1982
+3,Bahía Blanca - Cerri,24000,201403,cv,8.3
+3,Bahía Blanca - Cerri,28000,201403,desvio,2069
+3,Bahía Blanca - Cerri,28000,201403,cv,7.4
+3,Bahía Blanca - Cerri,32000,201403,desvio,2147
+3,Bahía Blanca - Cerri,32000,201403,cv,6.7
+3,Bahía Blanca - Cerri,36000,201403,desvio,2219
+3,Bahía Blanca - Cerri,36000,201403,cv,6.2
+3,Bahía Blanca - Cerri,44000,201403,desvio,2346
+3,Bahía Blanca - Cerri,44000,201403,cv,5.3
+3,Bahía Blanca - Cerri,52000,201403,desvio,2457
+3,Bahía Blanca - Cerri,52000,201403,cv,4.7
+3,Bahía Blanca - Cerri,60000,201403,desvio,2557
+3,Bahía Blanca - Cerri,60000,201403,cv,4.3
+3,Bahía Blanca - Cerri,72000,201403,desvio,2690
+3,Bahía Blanca - Cerri,72000,201403,cv,3.7
+3,Bahía Blanca - Cerri,84000,201403,desvio,2808
+3,Bahía Blanca - Cerri,84000,201403,cv,3.3
+3,Bahía Blanca - Cerri,96000,201403,desvio,2914
+3,Bahía Blanca - Cerri,96000,201403,cv,3
+3,Bahía Blanca - Cerri,108000,201403,desvio,3011
+3,Bahía Blanca - Cerri,108000,201403,cv,2.8
+3,Bahía Blanca - Cerri,120000,201403,desvio,3100
+3,Bahía Blanca - Cerri,120000,201403,cv,2.6
+3,Bahía Blanca - Cerri,132000,201403,desvio,3183
+3,Bahía Blanca - Cerri,132000,201403,cv,2.4
+3,Bahía Blanca - Cerri,144000,201403,desvio,3261
+3,Bahía Blanca - Cerri,144000,201403,cv,2.3
+3,Bahía Blanca - Cerri,156000,201403,desvio,3335
+3,Bahía Blanca - Cerri,156000,201403,cv,2.1
+3,Bahía Blanca - Cerri,168000,201403,desvio,3404
+3,Bahía Blanca - Cerri,168000,201403,cv,2
+3,Bahía Blanca - Cerri,180000,201403,desvio,3470
+3,Bahía Blanca - Cerri,180000,201403,cv,1.9
+3,Bahía Blanca - Cerri,192000,201403,desvio,3533
+3,Bahía Blanca - Cerri,192000,201403,cv,1.8
+32,Ciudad de Bs. As.,20000,201403,desvio,4282
+32,Ciudad de Bs. As.,20000,201403,cv,21.4
+32,Ciudad de Bs. As.,24000,201403,desvio,4653
+32,Ciudad de Bs. As.,24000,201403,cv,19.4
+32,Ciudad de Bs. As.,28000,201403,desvio,4990
+32,Ciudad de Bs. As.,28000,201403,cv,17.8
+32,Ciudad de Bs. As.,32000,201403,desvio,5303
+32,Ciudad de Bs. As.,32000,201403,cv,16.6
+32,Ciudad de Bs. As.,40000,201403,desvio,5869
+32,Ciudad de Bs. As.,40000,201403,cv,14.7
+32,Ciudad de Bs. As.,48000,201403,desvio,6376
+32,Ciudad de Bs. As.,48000,201403,cv,13.3
+32,Ciudad de Bs. As.,56000,201403,desvio,6839
+32,Ciudad de Bs. As.,56000,201403,cv,12.2
+32,Ciudad de Bs. As.,64000,201403,desvio,7267
+32,Ciudad de Bs. As.,64000,201403,cv,11.4
+32,Ciudad de Bs. As.,72000,201403,desvio,7666
+32,Ciudad de Bs. As.,72000,201403,cv,10.6
+32,Ciudad de Bs. As.,87000,201403,desvio,8355
+32,Ciudad de Bs. As.,87000,201403,cv,9.6
+32,Ciudad de Bs. As.,102000,201403,desvio,8982
+32,Ciudad de Bs. As.,102000,201403,cv,8.8
+32,Ciudad de Bs. As.,117000,201403,desvio,9560
+32,Ciudad de Bs. As.,117000,201403,cv,8.2
+32,Ciudad de Bs. As.,137000,201403,desvio,10271
+32,Ciudad de Bs. As.,137000,201403,cv,7.5
+32,Ciudad de Bs. As.,157000,201403,desvio,10927
+32,Ciudad de Bs. As.,157000,201403,cv,7
+32,Ciudad de Bs. As.,182000,201403,desvio,11686
+32,Ciudad de Bs. As.,182000,201403,cv,6.4
+32,Ciudad de Bs. As.,207000,201403,desvio,12390
+32,Ciudad de Bs. As.,207000,201403,cv,6
+32,Ciudad de Bs. As.,247000,201403,desvio,13426
+32,Ciudad de Bs. As.,247000,201403,cv,5.4
+32,Ciudad de Bs. As.,287000,201403,desvio,14374
+32,Ciudad de Bs. As.,287000,201403,cv,5
+32,Ciudad de Bs. As.,347000,201403,desvio,15670
+32,Ciudad de Bs. As.,347000,201403,cv,4.5
+32,Ciudad de Bs. As.,407000,201403,desvio,16848
+32,Ciudad de Bs. As.,407000,201403,cv,4.1
+32,Ciudad de Bs. As.,467000,201403,desvio,17935
+32,Ciudad de Bs. As.,467000,201403,cv,3.8
+32,Ciudad de Bs. As.,567000,201403,desvio,19589
+32,Ciudad de Bs. As.,567000,201403,cv,3.5
+32,Ciudad de Bs. As.,717000,201403,desvio,21795
+32,Ciudad de Bs. As.,717000,201403,cv,3
+32,Ciudad de Bs. As.,867000,201403,desvio,23760
+32,Ciudad de Bs. As.,867000,201403,cv,2.7
+32,Ciudad de Bs. As.,1022000,201403,desvio,25605
+32,Ciudad de Bs. As.,1022000,201403,cv,2.5
+32,Ciudad de Bs. As.,1177000,201403,desvio,27303
+32,Ciudad de Bs. As.,1177000,201403,cv,2.3
+32,Ciudad de Bs. As.,1332000,201403,desvio,28882
+32,Ciudad de Bs. As.,1332000,201403,cv,2.2
+32,Ciudad de Bs. As.,1487000,201403,desvio,30364
+32,Ciudad de Bs. As.,1487000,201403,cv,2
+32,Ciudad de Bs. As.,1642000,201403,desvio,31764
+32,Ciudad de Bs. As.,1642000,201403,cv,1.9
+32,Ciudad de Bs. As.,1797000,201403,desvio,33094
+32,Ciudad de Bs. As.,1797000,201403,cv,1.8
+22,Gran Catamarca,2000,201403,desvio,750
+22,Gran Catamarca,2000,201403,cv,37.5
+22,Gran Catamarca,3000,201403,desvio,834
+22,Gran Catamarca,3000,201403,cv,27.8
+22,Gran Catamarca,4000,201403,desvio,900
+22,Gran Catamarca,4000,201403,cv,22.5
+22,Gran Catamarca,5000,201403,desvio,955
+22,Gran Catamarca,5000,201403,cv,19.1
+22,Gran Catamarca,6000,201403,desvio,1002
+22,Gran Catamarca,6000,201403,cv,16.7
+22,Gran Catamarca,7000,201403,desvio,1043
+22,Gran Catamarca,7000,201403,cv,14.9
+22,Gran Catamarca,8000,201403,desvio,1081
+22,Gran Catamarca,8000,201403,cv,13.5
+22,Gran Catamarca,9000,201403,desvio,1115
+22,Gran Catamarca,9000,201403,cv,12.4
+22,Gran Catamarca,10000,201403,desvio,1146
+22,Gran Catamarca,10000,201403,cv,11.5
+22,Gran Catamarca,12000,201403,desvio,1203
+22,Gran Catamarca,12000,201403,cv,10
+22,Gran Catamarca,14000,201403,desvio,1253
+22,Gran Catamarca,14000,201403,cv,8.9
+22,Gran Catamarca,17000,201403,desvio,1319
+22,Gran Catamarca,17000,201403,cv,7.8
+22,Gran Catamarca,20000,201403,desvio,1376
+22,Gran Catamarca,20000,201403,cv,6.9
+22,Gran Catamarca,23000,201403,desvio,1428
+22,Gran Catamarca,23000,201403,cv,6.2
+22,Gran Catamarca,26000,201403,desvio,1475
+22,Gran Catamarca,26000,201403,cv,5.7
+22,Gran Catamarca,29000,201403,desvio,1518
+22,Gran Catamarca,29000,201403,cv,5.2
+22,Gran Catamarca,32000,201403,desvio,1558
+22,Gran Catamarca,32000,201403,cv,4.9
+22,Gran Catamarca,37000,201403,desvio,1619
+22,Gran Catamarca,37000,201403,cv,4.4
+22,Gran Catamarca,42000,201403,desvio,1674
+22,Gran Catamarca,42000,201403,cv,4
+22,Gran Catamarca,52000,201403,desvio,1771
+22,Gran Catamarca,52000,201403,cv,3.4
+22,Gran Catamarca,62000,201403,desvio,1855
+22,Gran Catamarca,62000,201403,cv,3
+22,Gran Catamarca,72000,201403,desvio,1930
+22,Gran Catamarca,72000,201403,cv,2.7
+22,Gran Catamarca,92000,201403,desvio,2059
+22,Gran Catamarca,92000,201403,cv,2.2
+22,Gran Catamarca,112000,201403,desvio,2168
+22,Gran Catamarca,112000,201403,cv,1.9
+22,Gran Catamarca,132000,201403,desvio,2265
+22,Gran Catamarca,132000,201403,cv,1.7
+9,Cdro. Rivadavia - R. Tilly,4000,201403,desvio,1114
+9,Cdro. Rivadavia - R. Tilly,4000,201403,cv,27.8
+9,Cdro. Rivadavia - R. Tilly,5000,201403,desvio,1174
+9,Cdro. Rivadavia - R. Tilly,5000,201403,cv,23.5
+9,Cdro. Rivadavia - R. Tilly,6000,201403,desvio,1226
+9,Cdro. Rivadavia - R. Tilly,6000,201403,cv,20.4
+9,Cdro. Rivadavia - R. Tilly,7000,201403,desvio,1272
+9,Cdro. Rivadavia - R. Tilly,7000,201403,cv,18.2
+9,Cdro. Rivadavia - R. Tilly,8000,201403,desvio,1313
+9,Cdro. Rivadavia - R. Tilly,8000,201403,cv,16.4
+9,Cdro. Rivadavia - R. Tilly,9000,201403,desvio,1351
+9,Cdro. Rivadavia - R. Tilly,9000,201403,cv,15
+9,Cdro. Rivadavia - R. Tilly,10000,201403,desvio,1385
+9,Cdro. Rivadavia - R. Tilly,10000,201403,cv,13.9
+9,Cdro. Rivadavia - R. Tilly,11000,201403,desvio,1417
+9,Cdro. Rivadavia - R. Tilly,11000,201403,cv,12.9
+9,Cdro. Rivadavia - R. Tilly,13000,201403,desvio,1475
+9,Cdro. Rivadavia - R. Tilly,13000,201403,cv,11.3
+9,Cdro. Rivadavia - R. Tilly,15000,201403,desvio,1526
+9,Cdro. Rivadavia - R. Tilly,15000,201403,cv,10.2
+9,Cdro. Rivadavia - R. Tilly,17000,201403,desvio,1572
+9,Cdro. Rivadavia - R. Tilly,17000,201403,cv,9.2
+9,Cdro. Rivadavia - R. Tilly,19000,201403,desvio,1614
+9,Cdro. Rivadavia - R. Tilly,19000,201403,cv,8.5
+9,Cdro. Rivadavia - R. Tilly,21000,201403,desvio,1653
+9,Cdro. Rivadavia - R. Tilly,21000,201403,cv,7.9
+9,Cdro. Rivadavia - R. Tilly,24000,201403,desvio,1706
+9,Cdro. Rivadavia - R. Tilly,24000,201403,cv,7.1
+9,Cdro. Rivadavia - R. Tilly,27000,201403,desvio,1755
+9,Cdro. Rivadavia - R. Tilly,27000,201403,cv,6.5
+9,Cdro. Rivadavia - R. Tilly,30000,201403,desvio,1800
+9,Cdro. Rivadavia - R. Tilly,30000,201403,cv,6
+9,Cdro. Rivadavia - R. Tilly,33000,201403,desvio,1841
+9,Cdro. Rivadavia - R. Tilly,33000,201403,cv,5.6
+9,Cdro. Rivadavia - R. Tilly,36000,201403,desvio,1880
+9,Cdro. Rivadavia - R. Tilly,36000,201403,cv,5.2
+9,Cdro. Rivadavia - R. Tilly,42000,201403,desvio,1950
+9,Cdro. Rivadavia - R. Tilly,42000,201403,cv,4.6
+9,Cdro. Rivadavia - R. Tilly,48000,201403,desvio,2013
+9,Cdro. Rivadavia - R. Tilly,48000,201403,cv,4.2
+9,Cdro. Rivadavia - R. Tilly,60000,201403,desvio,2123
+9,Cdro. Rivadavia - R. Tilly,60000,201403,cv,3.5
+9,Cdro. Rivadavia - R. Tilly,72000,201403,desvio,2217
+9,Cdro. Rivadavia - R. Tilly,72000,201403,cv,3.1
+9,Cdro. Rivadavia - R. Tilly,84000,201403,desvio,2300
+9,Cdro. Rivadavia - R. Tilly,84000,201403,cv,2.7
+9,Cdro. Rivadavia - R. Tilly,96000,201403,desvio,2374
+9,Cdro. Rivadavia - R. Tilly,96000,201403,cv,2.5
+9,Cdro. Rivadavia - R. Tilly,108000,201403,desvio,2442
+9,Cdro. Rivadavia - R. Tilly,108000,201403,cv,2.3
+9,Cdro. Rivadavia - R. Tilly,120000,201403,desvio,2504
+9,Cdro. Rivadavia - R. Tilly,120000,201403,cv,2.1
+9,Cdro. Rivadavia - R. Tilly,132000,201403,desvio,2561
+9,Cdro. Rivadavia - R. Tilly,132000,201403,cv,1.9
+14,Concordia,3000,201403,desvio,811
+14,Concordia,3000,201403,cv,27
+14,Concordia,4000,201403,desvio,862
+14,Concordia,4000,201403,cv,21.6
+14,Concordia,5000,201403,desvio,905
+14,Concordia,5000,201403,cv,18.1
+14,Concordia,6000,201403,desvio,940
+14,Concordia,6000,201403,cv,15.7
+14,Concordia,7000,201403,desvio,972
+14,Concordia,7000,201403,cv,13.9
+14,Concordia,8000,201403,desvio,1000
+14,Concordia,8000,201403,cv,12.5
+14,Concordia,9000,201403,desvio,1025
+14,Concordia,9000,201403,cv,11.4
+14,Concordia,10000,201403,desvio,1049
+14,Concordia,10000,201403,cv,10.5
+14,Concordia,12000,201403,desvio,1090
+14,Concordia,12000,201403,cv,9.1
+14,Concordia,14000,201403,desvio,1127
+14,Concordia,14000,201403,cv,8
+14,Concordia,16000,201403,desvio,1159
+14,Concordia,16000,201403,cv,7.2
+14,Concordia,18000,201403,desvio,1189
+14,Concordia,18000,201403,cv,6.6
+14,Concordia,20000,201403,desvio,1216
+14,Concordia,20000,201403,cv,6.1
+14,Concordia,22000,201403,desvio,1241
+14,Concordia,22000,201403,cv,5.6
+14,Concordia,24000,201403,desvio,1264
+14,Concordia,24000,201403,cv,5.3
+14,Concordia,28000,201403,desvio,1306
+14,Concordia,28000,201403,cv,4.7
+14,Concordia,32000,201403,desvio,1344
+14,Concordia,32000,201403,cv,4.2
+14,Concordia,36000,201403,desvio,1378
+14,Concordia,36000,201403,cv,3.8
+14,Concordia,40000,201403,desvio,1409
+14,Concordia,40000,201403,cv,3.5
+14,Concordia,44000,201403,desvio,1438
+14,Concordia,44000,201403,cv,3.3
+14,Concordia,48000,201403,desvio,1465
+14,Concordia,48000,201403,cv,3.1
+14,Concordia,56000,201403,desvio,1514
+14,Concordia,56000,201403,cv,2.7
+14,Concordia,64000,201403,desvio,1558
+14,Concordia,64000,201403,cv,2.4
+14,Concordia,72000,201403,desvio,1597
+14,Concordia,72000,201403,cv,2.2
+14,Concordia,80000,201403,desvio,1634
+14,Concordia,80000,201403,cv,2
+14,Concordia,88000,201403,desvio,1667
+14,Concordia,88000,201403,cv,1.9
+14,Concordia,96000,201403,desvio,1698
+14,Concordia,96000,201403,cv,1.8
+13,Gran Córdoba,12000,201403,desvio,4313
+13,Gran Córdoba,12000,201403,cv,35.9
+13,Gran Córdoba,13000,201403,desvio,4389
+13,Gran Córdoba,13000,201403,cv,33.8
+13,Gran Córdoba,14000,201403,desvio,4460
+13,Gran Córdoba,14000,201403,cv,31.9
+13,Gran Córdoba,15000,201403,desvio,4528
+13,Gran Córdoba,15000,201403,cv,30.2
+13,Gran Córdoba,16000,201403,desvio,4592
+13,Gran Córdoba,16000,201403,cv,28.7
+13,Gran Córdoba,18000,201403,desvio,4711
+13,Gran Córdoba,18000,201403,cv,26.2
+13,Gran Córdoba,20000,201403,desvio,4820
+13,Gran Córdoba,20000,201403,cv,24.1
+13,Gran Córdoba,22000,201403,desvio,4921
+13,Gran Córdoba,22000,201403,cv,22.4
+13,Gran Córdoba,25000,201403,desvio,5060
+13,Gran Córdoba,25000,201403,cv,20.2
+13,Gran Córdoba,28000,201403,desvio,5186
+13,Gran Córdoba,28000,201403,cv,18.5
+13,Gran Córdoba,32000,201403,desvio,5339
+13,Gran Córdoba,32000,201403,cv,16.7
+13,Gran Córdoba,37000,201403,desvio,5510
+13,Gran Córdoba,37000,201403,cv,14.9
+13,Gran Córdoba,43000,201403,desvio,5693
+13,Gran Córdoba,43000,201403,cv,13.2
+13,Gran Córdoba,50000,201403,desvio,5882
+13,Gran Córdoba,50000,201403,cv,11.8
+13,Gran Córdoba,57000,201403,desvio,6052
+13,Gran Córdoba,57000,201403,cv,10.6
+13,Gran Córdoba,64000,201403,desvio,6207
+13,Gran Córdoba,64000,201403,cv,9.7
+13,Gran Córdoba,74000,201403,desvio,6406
+13,Gran Córdoba,74000,201403,cv,8.7
+13,Gran Córdoba,84000,201403,desvio,6585
+13,Gran Córdoba,84000,201403,cv,7.8
+13,Gran Córdoba,94000,201403,desvio,6748
+13,Gran Córdoba,94000,201403,cv,7.2
+13,Gran Córdoba,104000,201403,desvio,6898
+13,Gran Córdoba,104000,201403,cv,6.6
+13,Gran Córdoba,119000,201403,desvio,7103
+13,Gran Córdoba,119000,201403,cv,6
+13,Gran Córdoba,134000,201403,desvio,7288
+13,Gran Córdoba,134000,201403,cv,5.4
+13,Gran Córdoba,158000,201403,desvio,7554
+13,Gran Córdoba,158000,201403,cv,4.8
+13,Gran Córdoba,182000,201403,desvio,7790
+13,Gran Córdoba,182000,201403,cv,4.3
+13,Gran Córdoba,206000,201403,desvio,8003
+13,Gran Córdoba,206000,201403,cv,3.9
+13,Gran Córdoba,230000,201403,desvio,8197
+13,Gran Córdoba,230000,201403,cv,3.6
+13,Gran Córdoba,254000,201403,desvio,8376
+13,Gran Córdoba,254000,201403,cv,3.3
+13,Gran Córdoba,284000,201403,desvio,8581
+13,Gran Córdoba,284000,201403,cv,3
+13,Gran Córdoba,314000,201403,desvio,8771
+13,Gran Córdoba,314000,201403,cv,2.8
+13,Gran Córdoba,344000,201403,desvio,8947
+13,Gran Córdoba,344000,201403,cv,2.6
+13,Gran Córdoba,384000,201403,desvio,9163
+13,Gran Córdoba,384000,201403,cv,2.4
+13,Gran Córdoba,424000,201403,desvio,9363
+13,Gran Córdoba,424000,201403,cv,2.2
+13,Gran Córdoba,464000,201403,desvio,9548
+13,Gran Córdoba,464000,201403,cv,2.1
+13,Gran Córdoba,504000,201403,desvio,9721
+13,Gran Córdoba,504000,201403,cv,1.9
+13,Gran Córdoba,549000,201403,desvio,9904
+13,Gran Córdoba,549000,201403,cv,1.8
+13,Gran Córdoba,594000,201403,desvio,10075
+13,Gran Córdoba,594000,201403,cv,1.7
+13,Gran Córdoba,639000,201403,desvio,10236
+13,Gran Córdoba,639000,201403,cv,1.6
+13,Gran Córdoba,684000,201403,desvio,10388
+13,Gran Córdoba,684000,201403,cv,1.5
+13,Gran Córdoba,729000,201403,desvio,10533
+13,Gran Córdoba,729000,201403,cv,1.4
+12,Corrientes,5000,201403,desvio,1264
+12,Corrientes,5000,201403,cv,25.3
+12,Corrientes,6000,201403,desvio,1345
+12,Corrientes,6000,201403,cv,22.4
+12,Corrientes,7000,201403,desvio,1418
+12,Corrientes,7000,201403,cv,20.3
+12,Corrientes,8000,201403,desvio,1485
+12,Corrientes,8000,201403,cv,18.6
+12,Corrientes,9000,201403,desvio,1546
+12,Corrientes,9000,201403,cv,17.2
+12,Corrientes,10000,201403,desvio,1602
+12,Corrientes,10000,201403,cv,16
+12,Corrientes,12000,201403,desvio,1706
+12,Corrientes,12000,201403,cv,14.2
+12,Corrientes,14000,201403,desvio,1798
+12,Corrientes,14000,201403,cv,12.8
+12,Corrientes,16000,201403,desvio,1882
+12,Corrientes,16000,201403,cv,11.8
+12,Corrientes,18000,201403,desvio,1960
+12,Corrientes,18000,201403,cv,10.9
+12,Corrientes,20000,201403,desvio,2032
+12,Corrientes,20000,201403,cv,10.2
+12,Corrientes,23000,201403,desvio,2131
+12,Corrientes,23000,201403,cv,9.3
+12,Corrientes,27000,201403,desvio,2251
+12,Corrientes,27000,201403,cv,8.3
+12,Corrientes,32000,201403,desvio,2386
+12,Corrientes,32000,201403,cv,7.5
+12,Corrientes,37000,201403,desvio,2508
+12,Corrientes,37000,201403,cv,6.8
+12,Corrientes,42000,201403,desvio,2619
+12,Corrientes,42000,201403,cv,6.2
+12,Corrientes,50000,201403,desvio,2780
+12,Corrientes,50000,201403,cv,5.6
+12,Corrientes,58000,201403,desvio,2925
+12,Corrientes,58000,201403,cv,5
+12,Corrientes,66000,201403,desvio,3057
+12,Corrientes,66000,201403,cv,4.6
+12,Corrientes,74000,201403,desvio,3179
+12,Corrientes,74000,201403,cv,4.3
+12,Corrientes,82000,201403,desvio,3293
+12,Corrientes,82000,201403,cv,4
+12,Corrientes,98000,201403,desvio,3500
+12,Corrientes,98000,201403,cv,3.6
+12,Corrientes,114000,201403,desvio,3686
+12,Corrientes,114000,201403,cv,3.2
+12,Corrientes,130000,201403,desvio,3856
+12,Corrientes,130000,201403,cv,3
+12,Corrientes,146000,201403,desvio,4012
+12,Corrientes,146000,201403,cv,2.7
+12,Corrientes,162000,201403,desvio,4158
+12,Corrientes,162000,201403,cv,2.6
+12,Corrientes,178000,201403,desvio,4294
+12,Corrientes,178000,201403,cv,2.4
+12,Corrientes,194000,201403,desvio,4422
+12,Corrientes,194000,201403,cv,2.3
+12,Corrientes,210000,201403,desvio,4544
+12,Corrientes,210000,201403,cv,2.2
+12,Corrientes,226000,201403,desvio,4660
+12,Corrientes,226000,201403,cv,2.1
+12,Corrientes,242000,201403,desvio,4770
+12,Corrientes,242000,201403,cv,2
+12,Corrientes,258000,201403,desvio,4876
+12,Corrientes,258000,201403,cv,1.9
+15,Formosa,3000,201403,desvio,764
+15,Formosa,3000,201403,cv,25.5
+15,Formosa,4000,201403,desvio,859
+15,Formosa,4000,201403,cv,21.5
+15,Formosa,5000,201403,desvio,941
+15,Formosa,5000,201403,cv,18.8
+15,Formosa,6000,201403,desvio,1014
+15,Formosa,6000,201403,cv,16.9
+15,Formosa,7000,201403,desvio,1079
+15,Formosa,7000,201403,cv,15.4
+15,Formosa,8000,201403,desvio,1140
+15,Formosa,8000,201403,cv,14.2
+15,Formosa,10000,201403,desvio,1248
+15,Formosa,10000,201403,cv,12.5
+15,Formosa,12000,201403,desvio,1344
+15,Formosa,12000,201403,cv,11.2
+15,Formosa,15000,201403,desvio,1472
+15,Formosa,15000,201403,cv,9.8
+15,Formosa,18000,201403,desvio,1586
+15,Formosa,18000,201403,cv,8.8
+15,Formosa,21000,201403,desvio,1689
+15,Formosa,21000,201403,cv,8
+15,Formosa,26000,201403,desvio,1843
+15,Formosa,26000,201403,cv,7.1
+15,Formosa,31000,201403,desvio,1979
+15,Formosa,31000,201403,cv,6.4
+15,Formosa,41000,201403,desvio,2218
+15,Formosa,41000,201403,cv,5.4
+15,Formosa,51000,201403,desvio,2425
+15,Formosa,51000,201403,cv,4.8
+15,Formosa,61000,201403,desvio,2608
+15,Formosa,61000,201403,cv,4.3
+15,Formosa,76000,201403,desvio,2853
+15,Formosa,76000,201403,cv,3.8
+15,Formosa,91000,201403,desvio,3070
+15,Formosa,91000,201403,cv,3.4
+15,Formosa,106000,201403,desvio,3267
+15,Formosa,106000,201403,cv,3.1
+15,Formosa,121000,201403,desvio,3448
+15,Formosa,121000,201403,cv,2.8
+15,Formosa,136000,201403,desvio,3617
+15,Formosa,136000,201403,cv,2.7
+15,Formosa,151000,201403,desvio,3774
+15,Formosa,151000,201403,cv,2.5
+33,Partidos GBA,40000,201403,desvio,9567
+33,Partidos GBA,40000,201403,cv,23.9
+33,Partidos GBA,50000,201403,desvio,10408
+33,Partidos GBA,50000,201403,cv,20.8
+33,Partidos GBA,60000,201403,desvio,11150
+33,Partidos GBA,60000,201403,cv,18.6
+33,Partidos GBA,70000,201403,desvio,11819
+33,Partidos GBA,70000,201403,cv,16.9
+33,Partidos GBA,80000,201403,desvio,12431
+33,Partidos GBA,80000,201403,cv,15.5
+33,Partidos GBA,90000,201403,desvio,12996
+33,Partidos GBA,90000,201403,cv,14.4
+33,Partidos GBA,100000,201403,desvio,13524
+33,Partidos GBA,100000,201403,cv,13.5
+33,Partidos GBA,120000,201403,desvio,14489
+33,Partidos GBA,120000,201403,cv,12.1
+33,Partidos GBA,140000,201403,desvio,15358
+33,Partidos GBA,140000,201403,cv,11
+33,Partidos GBA,160000,201403,desvio,16152
+33,Partidos GBA,160000,201403,cv,10.1
+33,Partidos GBA,180000,201403,desvio,16887
+33,Partidos GBA,180000,201403,cv,9.4
+33,Partidos GBA,200000,201403,desvio,17573
+33,Partidos GBA,200000,201403,cv,8.8
+33,Partidos GBA,220000,201403,desvio,18218
+33,Partidos GBA,220000,201403,cv,8.3
+33,Partidos GBA,260000,201403,desvio,19405
+33,Partidos GBA,260000,201403,cv,7.5
+33,Partidos GBA,320000,201403,desvio,20988
+33,Partidos GBA,320000,201403,cv,6.6
+33,Partidos GBA,380000,201403,desvio,22396
+33,Partidos GBA,380000,201403,cv,5.9
+33,Partidos GBA,480000,201403,desvio,24463
+33,Partidos GBA,480000,201403,cv,5.1
+33,Partidos GBA,580000,201403,desvio,26276
+33,Partidos GBA,580000,201403,cv,4.5
+33,Partidos GBA,680000,201403,desvio,27904
+33,Partidos GBA,680000,201403,cv,4.1
+33,Partidos GBA,780000,201403,desvio,29389
+33,Partidos GBA,780000,201403,cv,3.8
+33,Partidos GBA,880000,201403,desvio,30759
+33,Partidos GBA,880000,201403,cv,3.5
+33,Partidos GBA,980000,201403,desvio,32036
+33,Partidos GBA,980000,201403,cv,3.3
+33,Partidos GBA,1230000,201403,desvio,34908
+33,Partidos GBA,1230000,201403,cv,2.8
+33,Partidos GBA,1480000,201403,desvio,37436
+33,Partidos GBA,1480000,201403,cv,2.5
+33,Partidos GBA,1730000,201403,desvio,39710
+33,Partidos GBA,1730000,201403,cv,2.3
+33,Partidos GBA,1980000,201403,desvio,41788
+33,Partidos GBA,1980000,201403,cv,2.1
+33,Partidos GBA,2230000,201403,desvio,43708
+33,Partidos GBA,2230000,201403,cv,2
+33,Partidos GBA,2480000,201403,desvio,45498
+33,Partidos GBA,2480000,201403,cv,1.8
+33,Partidos GBA,2730000,201403,desvio,47180
+33,Partidos GBA,2730000,201403,cv,1.7
+33,Partidos GBA,3030000,201403,desvio,49075
+33,Partidos GBA,3030000,201403,cv,1.6
+33,Partidos GBA,3630000,201403,desvio,52542
+33,Partidos GBA,3630000,201403,cv,1.4
+33,Partidos GBA,4230000,201403,desvio,55669
+33,Partidos GBA,4230000,201403,cv,1.3
+19,Jujuy - Palpalá,4000,201403,desvio,1091
+19,Jujuy - Palpalá,4000,201403,cv,27.3
+19,Jujuy - Palpalá,5000,201403,desvio,1167
+19,Jujuy - Palpalá,5000,201403,cv,23.3
+19,Jujuy - Palpalá,6000,201403,desvio,1233
+19,Jujuy - Palpalá,6000,201403,cv,20.6
+19,Jujuy - Palpalá,7000,201403,desvio,1292
+19,Jujuy - Palpalá,7000,201403,cv,18.5
+19,Jujuy - Palpalá,8000,201403,desvio,1345
+19,Jujuy - Palpalá,8000,201403,cv,16.8
+19,Jujuy - Palpalá,9000,201403,desvio,1394
+19,Jujuy - Palpalá,9000,201403,cv,15.5
+19,Jujuy - Palpalá,10000,201403,desvio,1439
+19,Jujuy - Palpalá,10000,201403,cv,14.4
+19,Jujuy - Palpalá,11000,201403,desvio,1481
+19,Jujuy - Palpalá,11000,201403,cv,13.5
+19,Jujuy - Palpalá,12000,201403,desvio,1520
+19,Jujuy - Palpalá,12000,201403,cv,12.7
+19,Jujuy - Palpalá,13000,201403,desvio,1557
+19,Jujuy - Palpalá,13000,201403,cv,12
+19,Jujuy - Palpalá,14000,201403,desvio,1593
+19,Jujuy - Palpalá,14000,201403,cv,11.4
+19,Jujuy - Palpalá,16000,201403,desvio,1658
+19,Jujuy - Palpalá,16000,201403,cv,10.4
+19,Jujuy - Palpalá,19000,201403,desvio,1746
+19,Jujuy - Palpalá,19000,201403,cv,9.2
+19,Jujuy - Palpalá,22000,201403,desvio,1825
+19,Jujuy - Palpalá,22000,201403,cv,8.3
+19,Jujuy - Palpalá,25000,201403,desvio,1897
+19,Jujuy - Palpalá,25000,201403,cv,7.6
+19,Jujuy - Palpalá,28000,201403,desvio,1963
+19,Jujuy - Palpalá,28000,201403,cv,7
+19,Jujuy - Palpalá,31000,201403,desvio,2024
+19,Jujuy - Palpalá,31000,201403,cv,6.5
+19,Jujuy - Palpalá,34000,201403,desvio,2081
+19,Jujuy - Palpalá,34000,201403,cv,6.1
+19,Jujuy - Palpalá,37000,201403,desvio,2135
+19,Jujuy - Palpalá,37000,201403,cv,5.8
+19,Jujuy - Palpalá,40000,201403,desvio,2186
+19,Jujuy - Palpalá,40000,201403,cv,5.5
+19,Jujuy - Palpalá,45000,201403,desvio,2265
+19,Jujuy - Palpalá,45000,201403,cv,5
+19,Jujuy - Palpalá,50000,201403,desvio,2338
+19,Jujuy - Palpalá,50000,201403,cv,4.7
+19,Jujuy - Palpalá,57000,201403,desvio,2432
+19,Jujuy - Palpalá,57000,201403,cv,4.3
+19,Jujuy - Palpalá,71000,201403,desvio,2599
+19,Jujuy - Palpalá,71000,201403,cv,3.7
+19,Jujuy - Palpalá,85000,201403,desvio,2744
+19,Jujuy - Palpalá,85000,201403,cv,3.2
+19,Jujuy - Palpalá,99000,201403,desvio,2873
+19,Jujuy - Palpalá,99000,201403,cv,2.9
+19,Jujuy - Palpalá,127000,201403,desvio,3097
+19,Jujuy - Palpalá,127000,201403,cv,2.4
+19,Jujuy - Palpalá,155000,201403,desvio,3289
+19,Jujuy - Palpalá,155000,201403,cv,2.1
+19,Jujuy - Palpalá,183000,201403,desvio,3458
+19,Jujuy - Palpalá,183000,201403,cv,1.9
+19,Jujuy - Palpalá,211000,201403,desvio,3609
+19,Jujuy - Palpalá,211000,201403,cv,1.7
+2,Gran La Plata,12000,201403,desvio,3560
+2,Gran La Plata,12000,201403,cv,29.7
+2,Gran La Plata,13000,201403,desvio,3626
+2,Gran La Plata,13000,201403,cv,27.9
+2,Gran La Plata,14000,201403,desvio,3688
+2,Gran La Plata,14000,201403,cv,26.3
+2,Gran La Plata,15000,201403,desvio,3746
+2,Gran La Plata,15000,201403,cv,25
+2,Gran La Plata,17000,201403,desvio,3855
+2,Gran La Plata,17000,201403,cv,22.7
+2,Gran La Plata,19000,201403,desvio,3955
+2,Gran La Plata,19000,201403,cv,20.8
+2,Gran La Plata,21000,201403,desvio,4047
+2,Gran La Plata,21000,201403,cv,19.3
+2,Gran La Plata,23000,201403,desvio,4132
+2,Gran La Plata,23000,201403,cv,18
+2,Gran La Plata,25000,201403,desvio,4211
+2,Gran La Plata,25000,201403,cv,16.8
+2,Gran La Plata,27000,201403,desvio,4286
+2,Gran La Plata,27000,201403,cv,15.9
+2,Gran La Plata,29000,201403,desvio,4357
+2,Gran La Plata,29000,201403,cv,15
+2,Gran La Plata,31000,201403,desvio,4424
+2,Gran La Plata,31000,201403,cv,14.3
+2,Gran La Plata,33000,201403,desvio,4488
+2,Gran La Plata,33000,201403,cv,13.6
+2,Gran La Plata,36000,201403,desvio,4578
+2,Gran La Plata,36000,201403,cv,12.7
+2,Gran La Plata,39000,201403,desvio,4663
+2,Gran La Plata,39000,201403,cv,12
+2,Gran La Plata,42000,201403,desvio,4743
+2,Gran La Plata,42000,201403,cv,11.3
+2,Gran La Plata,45000,201403,desvio,4818
+2,Gran La Plata,45000,201403,cv,10.7
+2,Gran La Plata,48000,201403,desvio,4890
+2,Gran La Plata,48000,201403,cv,10.2
+2,Gran La Plata,51000,201403,desvio,4959
+2,Gran La Plata,51000,201403,cv,9.7
+2,Gran La Plata,55000,201403,desvio,5045
+2,Gran La Plata,55000,201403,cv,9.2
+2,Gran La Plata,59000,201403,desvio,5127
+2,Gran La Plata,59000,201403,cv,8.7
+2,Gran La Plata,65000,201403,desvio,5242
+2,Gran La Plata,65000,201403,cv,8.1
+2,Gran La Plata,71000,201403,desvio,5349
+2,Gran La Plata,71000,201403,cv,7.5
+2,Gran La Plata,78000,201403,desvio,5465
+2,Gran La Plata,78000,201403,cv,7
+2,Gran La Plata,85000,201403,desvio,5574
+2,Gran La Plata,85000,201403,cv,6.6
+2,Gran La Plata,94000,201403,desvio,5704
+2,Gran La Plata,94000,201403,cv,6.1
+2,Gran La Plata,103000,201403,desvio,5825
+2,Gran La Plata,103000,201403,cv,5.7
+2,Gran La Plata,118000,201403,desvio,6009
+2,Gran La Plata,118000,201403,cv,5.1
+2,Gran La Plata,133000,201403,desvio,6176
+2,Gran La Plata,133000,201403,cv,4.6
+2,Gran La Plata,148000,201403,desvio,6329
+2,Gran La Plata,148000,201403,cv,4.3
+2,Gran La Plata,163000,201403,desvio,6471
+2,Gran La Plata,163000,201403,cv,4
+2,Gran La Plata,183000,201403,desvio,6644
+2,Gran La Plata,183000,201403,cv,3.6
+2,Gran La Plata,203000,201403,desvio,6804
+2,Gran La Plata,203000,201403,cv,3.4
+2,Gran La Plata,243000,201403,desvio,7090
+2,Gran La Plata,243000,201403,cv,2.9
+2,Gran La Plata,283000,201403,desvio,7342
+2,Gran La Plata,283000,201403,cv,2.6
+2,Gran La Plata,323000,201403,desvio,7568
+2,Gran La Plata,323000,201403,cv,2.3
+2,Gran La Plata,363000,201403,desvio,7773
+2,Gran La Plata,363000,201403,cv,2.1
+2,Gran La Plata,403000,201403,desvio,7961
+2,Gran La Plata,403000,201403,cv,2
+2,Gran La Plata,443000,201403,desvio,8136
+2,Gran La Plata,443000,201403,cv,1.8
+25,La Rioja,2000,201403,desvio,668
+25,La Rioja,2000,201403,cv,33.4
+25,La Rioja,3000,201403,desvio,761
+25,La Rioja,3000,201403,cv,25.4
+25,La Rioja,4000,201403,desvio,834
+25,La Rioja,4000,201403,cv,20.8
+25,La Rioja,5000,201403,desvio,895
+25,La Rioja,5000,201403,cv,17.9
+25,La Rioja,6000,201403,desvio,949
+25,La Rioja,6000,201403,cv,15.8
+25,La Rioja,7000,201403,desvio,997
+25,La Rioja,7000,201403,cv,14.2
+25,La Rioja,8000,201403,desvio,1040
+25,La Rioja,8000,201403,cv,13
+25,La Rioja,9000,201403,desvio,1080
+25,La Rioja,9000,201403,cv,12
+25,La Rioja,11000,201403,desvio,1151
+25,La Rioja,11000,201403,cv,10.5
+25,La Rioja,13000,201403,desvio,1214
+25,La Rioja,13000,201403,cv,9.3
+25,La Rioja,15000,201403,desvio,1271
+25,La Rioja,15000,201403,cv,8.5
+25,La Rioja,17000,201403,desvio,1323
+25,La Rioja,17000,201403,cv,7.8
+25,La Rioja,20000,201403,desvio,1393
+25,La Rioja,20000,201403,cv,7
+25,La Rioja,23000,201403,desvio,1457
+25,La Rioja,23000,201403,cv,6.3
+25,La Rioja,26000,201403,desvio,1515
+25,La Rioja,26000,201403,cv,5.8
+25,La Rioja,29000,201403,desvio,1569
+25,La Rioja,29000,201403,cv,5.4
+25,La Rioja,32000,201403,desvio,1619
+25,La Rioja,32000,201403,cv,5.1
+25,La Rioja,37000,201403,desvio,1696
+25,La Rioja,37000,201403,cv,4.6
+25,La Rioja,42000,201403,desvio,1765
+25,La Rioja,42000,201403,cv,4.2
+25,La Rioja,52000,201403,desvio,1890
+25,La Rioja,52000,201403,cv,3.6
+25,La Rioja,62000,201403,desvio,1999
+25,La Rioja,62000,201403,cv,3.2
+25,La Rioja,72000,201403,desvio,2097
+25,La Rioja,72000,201403,cv,2.9
+25,La Rioja,82000,201403,desvio,2186
+25,La Rioja,82000,201403,cv,2.7
+25,La Rioja,102000,201403,desvio,2343
+25,La Rioja,102000,201403,cv,2.3
+25,La Rioja,122000,201403,desvio,2481
+25,La Rioja,122000,201403,cv,2
+34,Mar del Plata - Batán,9000,201403,desvio,3125
+34,Mar del Plata - Batán,9000,201403,cv,34.7
+34,Mar del Plata - Batán,10000,201403,desvio,3191
+34,Mar del Plata - Batán,10000,201403,cv,31.9
+34,Mar del Plata - Batán,11000,201403,desvio,3252
+34,Mar del Plata - Batán,11000,201403,cv,29.6
+34,Mar del Plata - Batán,12000,201403,desvio,3309
+34,Mar del Plata - Batán,12000,201403,cv,27.6
+34,Mar del Plata - Batán,13000,201403,desvio,3362
+34,Mar del Plata - Batán,13000,201403,cv,25.9
+34,Mar del Plata - Batán,14000,201403,desvio,3412
+34,Mar del Plata - Batán,14000,201403,cv,24.4
+34,Mar del Plata - Batán,15000,201403,desvio,3459
+34,Mar del Plata - Batán,15000,201403,cv,23.1
+34,Mar del Plata - Batán,16000,201403,desvio,3504
+34,Mar del Plata - Batán,16000,201403,cv,21.9
+34,Mar del Plata - Batán,17000,201403,desvio,3546
+34,Mar del Plata - Batán,17000,201403,cv,20.9
+34,Mar del Plata - Batán,19000,201403,desvio,3625
+34,Mar del Plata - Batán,19000,201403,cv,19.1
+34,Mar del Plata - Batán,21000,201403,desvio,3698
+34,Mar del Plata - Batán,21000,201403,cv,17.6
+34,Mar del Plata - Batán,23000,201403,desvio,3766
+34,Mar del Plata - Batán,23000,201403,cv,16.4
+34,Mar del Plata - Batán,27000,201403,desvio,3888
+34,Mar del Plata - Batán,27000,201403,cv,14.4
+34,Mar del Plata - Batán,31000,201403,desvio,3996
+34,Mar del Plata - Batán,31000,201403,cv,12.9
+34,Mar del Plata - Batán,35000,201403,desvio,4094
+34,Mar del Plata - Batán,35000,201403,cv,11.7
+34,Mar del Plata - Batán,39000,201403,desvio,4183
+34,Mar del Plata - Batán,39000,201403,cv,10.7
+34,Mar del Plata - Batán,43000,201403,desvio,4265
+34,Mar del Plata - Batán,43000,201403,cv,9.9
+34,Mar del Plata - Batán,53000,201403,desvio,4446
+34,Mar del Plata - Batán,53000,201403,cv,8.4
+34,Mar del Plata - Batán,63000,201403,desvio,4601
+34,Mar del Plata - Batán,63000,201403,cv,7.3
+34,Mar del Plata - Batán,73000,201403,desvio,4738
+34,Mar del Plata - Batán,73000,201403,cv,6.5
+34,Mar del Plata - Batán,93000,201403,desvio,4972
+34,Mar del Plata - Batán,93000,201403,cv,5.3
+34,Mar del Plata - Batán,113000,201403,desvio,5168
+34,Mar del Plata - Batán,113000,201403,cv,4.6
+34,Mar del Plata - Batán,133000,201403,desvio,5338
+34,Mar del Plata - Batán,133000,201403,cv,4
+34,Mar del Plata - Batán,173000,201403,desvio,5625
+34,Mar del Plata - Batán,173000,201403,cv,3.3
+34,Mar del Plata - Batán,213000,201403,desvio,5862
+34,Mar del Plata - Batán,213000,201403,cv,2.8
+34,Mar del Plata - Batán,253000,201403,desvio,6066
+34,Mar del Plata - Batán,253000,201403,cv,2.4
+34,Mar del Plata - Batán,313000,201403,desvio,6329
+34,Mar del Plata - Batán,313000,201403,cv,2
+34,Mar del Plata - Batán,373000,201403,desvio,6553
+34,Mar del Plata - Batán,373000,201403,cv,1.8
+10,Gran Mendoza,10000,201403,desvio,3050
+10,Gran Mendoza,10000,201403,cv,30.5
+10,Gran Mendoza,11000,201403,desvio,3128
+10,Gran Mendoza,11000,201403,cv,28.4
+10,Gran Mendoza,12000,201403,desvio,3202
+10,Gran Mendoza,12000,201403,cv,26.7
+10,Gran Mendoza,13000,201403,desvio,3271
+10,Gran Mendoza,13000,201403,cv,25.2
+10,Gran Mendoza,14000,201403,desvio,3336
+10,Gran Mendoza,14000,201403,cv,23.8
+10,Gran Mendoza,15000,201403,desvio,3399
+10,Gran Mendoza,15000,201403,cv,22.7
+10,Gran Mendoza,17000,201403,desvio,3514
+10,Gran Mendoza,17000,201403,cv,20.7
+10,Gran Mendoza,19000,201403,desvio,3620
+10,Gran Mendoza,19000,201403,cv,19.1
+10,Gran Mendoza,22000,201403,desvio,3765
+10,Gran Mendoza,22000,201403,cv,17.1
+10,Gran Mendoza,25000,201403,desvio,3895
+10,Gran Mendoza,25000,201403,cv,15.6
+10,Gran Mendoza,29000,201403,desvio,4053
+10,Gran Mendoza,29000,201403,cv,14
+10,Gran Mendoza,33000,201403,desvio,4195
+10,Gran Mendoza,33000,201403,cv,12.7
+10,Gran Mendoza,39000,201403,desvio,4387
+10,Gran Mendoza,39000,201403,cv,11.2
+10,Gran Mendoza,47000,201403,desvio,4611
+10,Gran Mendoza,47000,201403,cv,9.8
+10,Gran Mendoza,57000,201403,desvio,4855
+10,Gran Mendoza,57000,201403,cv,8.5
+10,Gran Mendoza,71000,201403,desvio,5148
+10,Gran Mendoza,71000,201403,cv,7.3
+10,Gran Mendoza,88000,201403,desvio,5452
+10,Gran Mendoza,88000,201403,cv,6.2
+10,Gran Mendoza,105000,201403,desvio,5716
+10,Gran Mendoza,105000,201403,cv,5.4
+10,Gran Mendoza,125000,201403,desvio,5988
+10,Gran Mendoza,125000,201403,cv,4.8
+10,Gran Mendoza,149000,201403,desvio,6276
+10,Gran Mendoza,149000,201403,cv,4.2
+10,Gran Mendoza,173000,201403,desvio,6531
+10,Gran Mendoza,173000,201403,cv,3.8
+10,Gran Mendoza,205000,201403,desvio,6834
+10,Gran Mendoza,205000,201403,cv,3.3
+10,Gran Mendoza,237000,201403,desvio,7104
+10,Gran Mendoza,237000,201403,cv,3
+10,Gran Mendoza,269000,201403,desvio,7349
+10,Gran Mendoza,269000,201403,cv,2.7
+10,Gran Mendoza,301000,201403,desvio,7573
+10,Gran Mendoza,301000,201403,cv,2.5
+10,Gran Mendoza,333000,201403,desvio,7780
+10,Gran Mendoza,333000,201403,cv,2.3
+10,Gran Mendoza,365000,201403,desvio,7973
+10,Gran Mendoza,365000,201403,cv,2.2
+10,Gran Mendoza,405000,201403,desvio,8198
+10,Gran Mendoza,405000,201403,cv,2
+10,Gran Mendoza,445000,201403,desvio,8407
+10,Gran Mendoza,445000,201403,cv,1.9
+10,Gran Mendoza,485000,201403,desvio,8602
+10,Gran Mendoza,485000,201403,cv,1.8
+10,Gran Mendoza,525000,201403,desvio,8786
+10,Gran Mendoza,525000,201403,cv,1.7
+17,Neuquén - Plottier,4000,201403,desvio,1144
+17,Neuquén - Plottier,4000,201403,cv,28.6
+17,Neuquén - Plottier,5000,201403,desvio,1233
+17,Neuquén - Plottier,5000,201403,cv,24.7
+17,Neuquén - Plottier,6000,201403,desvio,1310
+17,Neuquén - Plottier,6000,201403,cv,21.8
+17,Neuquén - Plottier,7000,201403,desvio,1379
+17,Neuquén - Plottier,7000,201403,cv,19.7
+17,Neuquén - Plottier,8000,201403,desvio,1442
+17,Neuquén - Plottier,8000,201403,cv,18
+17,Neuquén - Plottier,10000,201403,desvio,1554
+17,Neuquén - Plottier,10000,201403,cv,15.5
+17,Neuquén - Plottier,12000,201403,desvio,1651
+17,Neuquén - Plottier,12000,201403,cv,13.8
+17,Neuquén - Plottier,14000,201403,desvio,1738
+17,Neuquén - Plottier,14000,201403,cv,12.4
+17,Neuquén - Plottier,17000,201403,desvio,1855
+17,Neuquén - Plottier,17000,201403,cv,10.9
+17,Neuquén - Plottier,20000,201403,desvio,1958
+17,Neuquén - Plottier,20000,201403,cv,9.8
+17,Neuquén - Plottier,25000,201403,desvio,2110
+17,Neuquén - Plottier,25000,201403,cv,8.4
+17,Neuquén - Plottier,30000,201403,desvio,2242
+17,Neuquén - Plottier,30000,201403,cv,7.5
+17,Neuquén - Plottier,35000,201403,desvio,2361
+17,Neuquén - Plottier,35000,201403,cv,6.7
+17,Neuquén - Plottier,40000,201403,desvio,2468
+17,Neuquén - Plottier,40000,201403,cv,6.2
+17,Neuquén - Plottier,50000,201403,desvio,2659
+17,Neuquén - Plottier,50000,201403,cv,5.3
+17,Neuquén - Plottier,60000,201403,desvio,2826
+17,Neuquén - Plottier,60000,201403,cv,4.7
+17,Neuquén - Plottier,70000,201403,desvio,2976
+17,Neuquén - Plottier,70000,201403,cv,4.3
+17,Neuquén - Plottier,90000,201403,desvio,3236
+17,Neuquén - Plottier,90000,201403,cv,3.6
+17,Neuquén - Plottier,110000,201403,desvio,3461
+17,Neuquén - Plottier,110000,201403,cv,3.1
+17,Neuquén - Plottier,130000,201403,desvio,3659
+17,Neuquén - Plottier,130000,201403,cv,2.8
+17,Neuquén - Plottier,150000,201403,desvio,3838
+17,Neuquén - Plottier,150000,201403,cv,2.6
+17,Neuquén - Plottier,170000,201403,desvio,4002
+17,Neuquén - Plottier,170000,201403,cv,2.4
+17,Neuquén - Plottier,190000,201403,desvio,4154
+17,Neuquén - Plottier,190000,201403,cv,2.2
+6,Gran Paraná,4000,201403,desvio,1096
+6,Gran Paraná,4000,201403,cv,27.4
+6,Gran Paraná,5000,201403,desvio,1171
+6,Gran Paraná,5000,201403,cv,23.4
+6,Gran Paraná,6000,201403,desvio,1236
+6,Gran Paraná,6000,201403,cv,20.6
+6,Gran Paraná,7000,201403,desvio,1294
+6,Gran Paraná,7000,201403,cv,18.5
+6,Gran Paraná,8000,201403,desvio,1347
+6,Gran Paraná,8000,201403,cv,16.8
+6,Gran Paraná,9000,201403,desvio,1395
+6,Gran Paraná,9000,201403,cv,15.5
+6,Gran Paraná,10000,201403,desvio,1439
+6,Gran Paraná,10000,201403,cv,14.4
+6,Gran Paraná,12000,201403,desvio,1519
+6,Gran Paraná,12000,201403,cv,12.7
+6,Gran Paraná,14000,201403,desvio,1591
+6,Gran Paraná,14000,201403,cv,11.4
+6,Gran Paraná,17000,201403,desvio,1685
+6,Gran Paraná,17000,201403,cv,9.9
+6,Gran Paraná,21000,201403,desvio,1794
+6,Gran Paraná,21000,201403,cv,8.5
+6,Gran Paraná,26000,201403,desvio,1912
+6,Gran Paraná,26000,201403,cv,7.4
+6,Gran Paraná,34000,201403,desvio,2071
+6,Gran Paraná,34000,201403,cv,6.1
+6,Gran Paraná,44000,201403,desvio,2236
+6,Gran Paraná,44000,201403,cv,5.1
+6,Gran Paraná,54000,201403,desvio,2376
+6,Gran Paraná,54000,201403,cv,4.4
+6,Gran Paraná,64000,201403,desvio,2499
+6,Gran Paraná,64000,201403,cv,3.9
+6,Gran Paraná,74000,201403,desvio,2609
+6,Gran Paraná,74000,201403,cv,3.5
+6,Gran Paraná,84000,201403,desvio,2709
+6,Gran Paraná,84000,201403,cv,3.2
+6,Gran Paraná,94000,201403,desvio,2802
+6,Gran Paraná,94000,201403,cv,3
+6,Gran Paraná,104000,201403,desvio,2887
+6,Gran Paraná,104000,201403,cv,2.8
+6,Gran Paraná,114000,201403,desvio,2967
+6,Gran Paraná,114000,201403,cv,2.6
+6,Gran Paraná,124000,201403,desvio,3042
+6,Gran Paraná,124000,201403,cv,2.5
+6,Gran Paraná,134000,201403,desvio,3113
+6,Gran Paraná,134000,201403,cv,2.3
+6,Gran Paraná,144000,201403,desvio,3180
+6,Gran Paraná,144000,201403,cv,2.2
+6,Gran Paraná,154000,201403,desvio,3244
+6,Gran Paraná,154000,201403,cv,2.1
+6,Gran Paraná,164000,201403,desvio,3306
+6,Gran Paraná,164000,201403,cv,2
+7,Posadas,5000,201403,desvio,1197
+7,Posadas,5000,201403,cv,23.9
+7,Posadas,6000,201403,desvio,1269
+7,Posadas,6000,201403,cv,21.2
+7,Posadas,7000,201403,desvio,1334
+7,Posadas,7000,201403,cv,19.1
+7,Posadas,8000,201403,desvio,1393
+7,Posadas,8000,201403,cv,17.4
+7,Posadas,9000,201403,desvio,1447
+7,Posadas,9000,201403,cv,16.1
+7,Posadas,10000,201403,desvio,1497
+7,Posadas,10000,201403,cv,15
+7,Posadas,12000,201403,desvio,1588
+7,Posadas,12000,201403,cv,13.2
+7,Posadas,14000,201403,desvio,1669
+7,Posadas,14000,201403,cv,11.9
+7,Posadas,17000,201403,desvio,1778
+7,Posadas,17000,201403,cv,10.5
+7,Posadas,20000,201403,desvio,1874
+7,Posadas,20000,201403,cv,9.4
+7,Posadas,24000,201403,desvio,1987
+7,Posadas,24000,201403,cv,8.3
+7,Posadas,29000,201403,desvio,2113
+7,Posadas,29000,201403,cv,7.3
+7,Posadas,34000,201403,desvio,2224
+7,Posadas,34000,201403,cv,6.5
+7,Posadas,42000,201403,desvio,2381
+7,Posadas,42000,201403,cv,5.7
+7,Posadas,50000,201403,desvio,2520
+7,Posadas,50000,201403,cv,5
+7,Posadas,58000,201403,desvio,2643
+7,Posadas,58000,201403,cv,4.6
+7,Posadas,66000,201403,desvio,2756
+7,Posadas,66000,201403,cv,4.2
+7,Posadas,82000,201403,desvio,2957
+7,Posadas,82000,201403,cv,3.6
+7,Posadas,98000,201403,desvio,3132
+7,Posadas,98000,201403,cv,3.2
+7,Posadas,114000,201403,desvio,3289
+7,Posadas,114000,201403,cv,2.9
+7,Posadas,130000,201403,desvio,3432
+7,Posadas,130000,201403,cv,2.6
+7,Posadas,146000,201403,desvio,3563
+7,Posadas,146000,201403,cv,2.4
+7,Posadas,162000,201403,desvio,3685
+7,Posadas,162000,201403,cv,2.3
+7,Posadas,178000,201403,desvio,3798
+7,Posadas,178000,201403,cv,2.1
+7,Posadas,194000,201403,desvio,3906
+7,Posadas,194000,201403,cv,2
+7,Posadas,210000,201403,desvio,4007
+7,Posadas,210000,201403,cv,1.9
+8,Gran Resistencia,8000,201403,desvio,1935
+8,Gran Resistencia,8000,201403,cv,24.2
+8,Gran Resistencia,9000,201403,desvio,1996
+8,Gran Resistencia,9000,201403,cv,22.2
+8,Gran Resistencia,10000,201403,desvio,2053
+8,Gran Resistencia,10000,201403,cv,20.5
+8,Gran Resistencia,11000,201403,desvio,2106
+8,Gran Resistencia,11000,201403,cv,19.1
+8,Gran Resistencia,12000,201403,desvio,2155
+8,Gran Resistencia,12000,201403,cv,18
+8,Gran Resistencia,14000,201403,desvio,2245
+8,Gran Resistencia,14000,201403,cv,16
+8,Gran Resistencia,16000,201403,desvio,2326
+8,Gran Resistencia,16000,201403,cv,14.5
+8,Gran Resistencia,18000,201403,desvio,2400
+8,Gran Resistencia,18000,201403,cv,13.3
+8,Gran Resistencia,20000,201403,desvio,2468
+8,Gran Resistencia,20000,201403,cv,12.3
+8,Gran Resistencia,22000,201403,desvio,2532
+8,Gran Resistencia,22000,201403,cv,11.5
+8,Gran Resistencia,25000,201403,desvio,2619
+8,Gran Resistencia,25000,201403,cv,10.5
+8,Gran Resistencia,28000,201403,desvio,2699
+8,Gran Resistencia,28000,201403,cv,9.6
+8,Gran Resistencia,31000,201403,desvio,2773
+8,Gran Resistencia,31000,201403,cv,8.9
+8,Gran Resistencia,34000,201403,desvio,2842
+8,Gran Resistencia,34000,201403,cv,8.4
+8,Gran Resistencia,40000,201403,desvio,2968
+8,Gran Resistencia,40000,201403,cv,7.4
+8,Gran Resistencia,46000,201403,desvio,3080
+8,Gran Resistencia,46000,201403,cv,6.7
+8,Gran Resistencia,52000,201403,desvio,3182
+8,Gran Resistencia,52000,201403,cv,6.1
+8,Gran Resistencia,58000,201403,desvio,3276
+8,Gran Resistencia,58000,201403,cv,5.6
+8,Gran Resistencia,64000,201403,desvio,3363
+8,Gran Resistencia,64000,201403,cv,5.3
+8,Gran Resistencia,76000,201403,desvio,3520
+8,Gran Resistencia,76000,201403,cv,4.6
+8,Gran Resistencia,88000,201403,desvio,3660
+8,Gran Resistencia,88000,201403,cv,4.2
+8,Gran Resistencia,100000,201403,desvio,3787
+8,Gran Resistencia,100000,201403,cv,3.8
+8,Gran Resistencia,124000,201403,desvio,4009
+8,Gran Resistencia,124000,201403,cv,3.2
+8,Gran Resistencia,148000,201403,desvio,4202
+8,Gran Resistencia,148000,201403,cv,2.8
+8,Gran Resistencia,172000,201403,desvio,4374
+8,Gran Resistencia,172000,201403,cv,2.5
+8,Gran Resistencia,196000,201403,desvio,4528
+8,Gran Resistencia,196000,201403,cv,2.3
+8,Gran Resistencia,220000,201403,desvio,4670
+8,Gran Resistencia,220000,201403,cv,2.1
+8,Gran Resistencia,244000,201403,desvio,4800
+8,Gran Resistencia,244000,201403,cv,2
+36,Río Cuarto,2000,201403,desvio,639
+36,Río Cuarto,2000,201403,cv,32
+36,Río Cuarto,3000,201403,desvio,718
+36,Río Cuarto,3000,201403,cv,23.9
+36,Río Cuarto,4000,201403,desvio,779
+36,Río Cuarto,4000,201403,cv,19.5
+36,Río Cuarto,5000,201403,desvio,830
+36,Río Cuarto,5000,201403,cv,16.6
+36,Río Cuarto,6000,201403,desvio,874
+36,Río Cuarto,6000,201403,cv,14.6
+36,Río Cuarto,7000,201403,desvio,914
+36,Río Cuarto,7000,201403,cv,13.1
+36,Río Cuarto,9000,201403,desvio,982
+36,Río Cuarto,9000,201403,cv,10.9
+36,Río Cuarto,11000,201403,desvio,1039
+36,Río Cuarto,11000,201403,cv,9.4
+36,Río Cuarto,13000,201403,desvio,1090
+36,Río Cuarto,13000,201403,cv,8.4
+36,Río Cuarto,15000,201403,desvio,1135
+36,Río Cuarto,15000,201403,cv,7.6
+36,Río Cuarto,19000,201403,desvio,1215
+36,Río Cuarto,19000,201403,cv,6.4
+36,Río Cuarto,23000,201403,desvio,1283
+36,Río Cuarto,23000,201403,cv,5.6
+36,Río Cuarto,31000,201403,desvio,1397
+36,Río Cuarto,31000,201403,cv,4.5
+36,Río Cuarto,39000,201403,desvio,1491
+36,Río Cuarto,39000,201403,cv,3.8
+36,Río Cuarto,47000,201403,desvio,1573
+36,Río Cuarto,47000,201403,cv,3.3
+36,Río Cuarto,55000,201403,desvio,1645
+36,Río Cuarto,55000,201403,cv,3
+36,Río Cuarto,63000,201403,desvio,1710
+36,Río Cuarto,63000,201403,cv,2.7
+36,Río Cuarto,71000,201403,desvio,1769
+36,Río Cuarto,71000,201403,cv,2.5
+36,Río Cuarto,79000,201403,desvio,1824
+36,Río Cuarto,79000,201403,cv,2.3
+36,Río Cuarto,87000,201403,desvio,1874
+36,Río Cuarto,87000,201403,cv,2.2
+36,Río Cuarto,95000,201403,desvio,1922
+36,Río Cuarto,95000,201403,cv,2
+36,Río Cuarto,103000,201403,desvio,1967
+36,Río Cuarto,103000,201403,cv,1.9
+20,Río Gallegos,2000,201403,desvio,556
+20,Río Gallegos,2000,201403,cv,27.8
+20,Río Gallegos,3000,201403,desvio,618
+20,Río Gallegos,3000,201403,cv,20.6
+20,Río Gallegos,4000,201403,desvio,666
+20,Río Gallegos,4000,201403,cv,16.6
+20,Río Gallegos,5000,201403,desvio,705
+20,Río Gallegos,5000,201403,cv,14.1
+20,Río Gallegos,6000,201403,desvio,739
+20,Río Gallegos,6000,201403,cv,12.3
+20,Río Gallegos,7000,201403,desvio,769
+20,Río Gallegos,7000,201403,cv,11
+20,Río Gallegos,8000,201403,desvio,796
+20,Río Gallegos,8000,201403,cv,10
+20,Río Gallegos,9000,201403,desvio,821
+20,Río Gallegos,9000,201403,cv,9.1
+20,Río Gallegos,10000,201403,desvio,843
+20,Río Gallegos,10000,201403,cv,8.4
+20,Río Gallegos,11000,201403,desvio,864
+20,Río Gallegos,11000,201403,cv,7.9
+20,Río Gallegos,12000,201403,desvio,884
+20,Río Gallegos,12000,201403,cv,7.4
+20,Río Gallegos,13000,201403,desvio,903
+20,Río Gallegos,13000,201403,cv,6.9
+20,Río Gallegos,15000,201403,desvio,937
+20,Río Gallegos,15000,201403,cv,6.2
+20,Río Gallegos,17000,201403,desvio,967
+20,Río Gallegos,17000,201403,cv,5.7
+20,Río Gallegos,19000,201403,desvio,996
+20,Río Gallegos,19000,201403,cv,5.2
+20,Río Gallegos,23000,201403,desvio,1046
+20,Río Gallegos,23000,201403,cv,4.5
+20,Río Gallegos,27000,201403,desvio,1090
+20,Río Gallegos,27000,201403,cv,4
+20,Río Gallegos,31000,201403,desvio,1130
+20,Río Gallegos,31000,201403,cv,3.6
+20,Río Gallegos,35000,201403,desvio,1166
+20,Río Gallegos,35000,201403,cv,3.3
+20,Río Gallegos,40000,201403,desvio,1207
+20,Río Gallegos,40000,201403,cv,3
+20,Río Gallegos,45000,201403,desvio,1244
+20,Río Gallegos,45000,201403,cv,2.8
+20,Río Gallegos,50000,201403,desvio,1278
+20,Río Gallegos,50000,201403,cv,2.6
+20,Río Gallegos,55000,201403,desvio,1310
+20,Río Gallegos,55000,201403,cv,2.4
+20,Río Gallegos,60000,201403,desvio,1340
+20,Río Gallegos,60000,201403,cv,2.2
+20,Río Gallegos,65000,201403,desvio,1368
+20,Río Gallegos,65000,201403,cv,2.1
+4,Gran Rosario,20000,201403,desvio,5642
+4,Gran Rosario,20000,201403,cv,28.2
+4,Gran Rosario,21000,201403,desvio,5698
+4,Gran Rosario,21000,201403,cv,27.1
+4,Gran Rosario,22000,201403,desvio,5752
+4,Gran Rosario,22000,201403,cv,26.1
+4,Gran Rosario,23000,201403,desvio,5804
+4,Gran Rosario,23000,201403,cv,25.2
+4,Gran Rosario,24000,201403,desvio,5854
+4,Gran Rosario,24000,201403,cv,24.4
+4,Gran Rosario,25000,201403,desvio,5903
+4,Gran Rosario,25000,201403,cv,23.6
+4,Gran Rosario,27000,201403,desvio,5996
+4,Gran Rosario,27000,201403,cv,22.2
+4,Gran Rosario,29000,201403,desvio,6084
+4,Gran Rosario,29000,201403,cv,21
+4,Gran Rosario,31000,201403,desvio,6167
+4,Gran Rosario,31000,201403,cv,19.9
+4,Gran Rosario,35000,201403,desvio,6320
+4,Gran Rosario,35000,201403,cv,18.1
+4,Gran Rosario,39000,201403,desvio,6461
+4,Gran Rosario,39000,201403,cv,16.6
+4,Gran Rosario,43000,201403,desvio,6590
+4,Gran Rosario,43000,201403,cv,15.3
+4,Gran Rosario,47000,201403,desvio,6710
+4,Gran Rosario,47000,201403,cv,14.3
+4,Gran Rosario,51000,201403,desvio,6822
+4,Gran Rosario,51000,201403,cv,13.4
+4,Gran Rosario,55000,201403,desvio,6928
+4,Gran Rosario,55000,201403,cv,12.6
+4,Gran Rosario,65000,201403,desvio,7166
+4,Gran Rosario,65000,201403,cv,11
+4,Gran Rosario,75000,201403,desvio,7378
+4,Gran Rosario,75000,201403,cv,9.8
+4,Gran Rosario,95000,201403,desvio,7740
+4,Gran Rosario,95000,201403,cv,8.1
+4,Gran Rosario,115000,201403,desvio,8046
+4,Gran Rosario,115000,201403,cv,7
+4,Gran Rosario,135000,201403,desvio,8312
+4,Gran Rosario,135000,201403,cv,6.2
+4,Gran Rosario,175000,201403,desvio,8762
+4,Gran Rosario,175000,201403,cv,5
+4,Gran Rosario,215000,201403,desvio,9136
+4,Gran Rosario,215000,201403,cv,4.2
+4,Gran Rosario,255000,201403,desvio,9458
+4,Gran Rosario,255000,201403,cv,3.7
+4,Gran Rosario,295000,201403,desvio,9742
+4,Gran Rosario,295000,201403,cv,3.3
+4,Gran Rosario,335000,201403,desvio,9996
+4,Gran Rosario,335000,201403,cv,3
+4,Gran Rosario,415000,201403,desvio,10440
+4,Gran Rosario,415000,201403,cv,2.5
+4,Gran Rosario,495000,201403,desvio,10821
+4,Gran Rosario,495000,201403,cv,2.2
+4,Gran Rosario,575000,201403,desvio,11155
+4,Gran Rosario,575000,201403,cv,1.9
+4,Gran Rosario,655000,201403,desvio,11453
+4,Gran Rosario,655000,201403,cv,1.7
+4,Gran Rosario,735000,201403,desvio,11724
+4,Gran Rosario,735000,201403,cv,1.6
+4,Gran Rosario,815000,201403,desvio,11973
+4,Gran Rosario,815000,201403,cv,1.5
+23,Salta,6000,201403,desvio,1567
+23,Salta,6000,201403,cv,26.1
+23,Salta,7000,201403,desvio,1647
+23,Salta,7000,201403,cv,23.5
+23,Salta,8000,201403,desvio,1719
+23,Salta,8000,201403,cv,21.5
+23,Salta,10000,201403,desvio,1847
+23,Salta,10000,201403,cv,18.5
+23,Salta,12000,201403,desvio,1959
+23,Salta,12000,201403,cv,16.3
+23,Salta,14000,201403,desvio,2058
+23,Salta,14000,201403,cv,14.7
+23,Salta,16000,201403,desvio,2149
+23,Salta,16000,201403,cv,13.4
+23,Salta,19000,201403,desvio,2271
+23,Salta,19000,201403,cv,12
+23,Salta,22000,201403,desvio,2380
+23,Salta,22000,201403,cv,10.8
+23,Salta,27000,201403,desvio,2543
+23,Salta,27000,201403,cv,9.4
+23,Salta,32000,201403,desvio,2685
+23,Salta,32000,201403,cv,8.4
+23,Salta,37000,201403,desvio,2814
+23,Salta,37000,201403,cv,7.6
+23,Salta,42000,201403,desvio,2931
+23,Salta,42000,201403,cv,7
+23,Salta,49000,201403,desvio,3080
+23,Salta,49000,201403,cv,6.3
+23,Salta,56000,201403,desvio,3215
+23,Salta,56000,201403,cv,5.7
+23,Salta,66000,201403,desvio,3389
+23,Salta,66000,201403,cv,5.1
+23,Salta,76000,201403,desvio,3547
+23,Salta,76000,201403,cv,4.7
+23,Salta,86000,201403,desvio,3691
+23,Salta,86000,201403,cv,4.3
+23,Salta,96000,201403,desvio,3823
+23,Salta,96000,201403,cv,4
+23,Salta,111000,201403,desvio,4006
+23,Salta,111000,201403,cv,3.6
+23,Salta,126000,201403,desvio,4173
+23,Salta,126000,201403,cv,3.3
+23,Salta,141000,201403,desvio,4327
+23,Salta,141000,201403,cv,3.1
+23,Salta,171000,201403,desvio,4604
+23,Salta,171000,201403,cv,2.7
+23,Salta,201000,201403,desvio,4849
+23,Salta,201000,201403,cv,2.4
+23,Salta,231000,201403,desvio,5071
+23,Salta,231000,201403,cv,2.2
+23,Salta,261000,201403,desvio,5274
+23,Salta,261000,201403,cv,2
+23,Salta,291000,201403,desvio,5462
+23,Salta,291000,201403,cv,1.9
+23,Salta,321000,201403,desvio,5637
+23,Salta,321000,201403,cv,1.8
+23,Salta,351000,201403,desvio,5802
+23,Salta,351000,201403,cv,1.7
+23,Salta,381000,201403,desvio,5957
+23,Salta,381000,201403,cv,1.6
+27,Gran San Juan,5000,201403,desvio,1122
+27,Gran San Juan,5000,201403,cv,22.4
+27,Gran San Juan,6000,201403,desvio,1224
+27,Gran San Juan,6000,201403,cv,20.4
+27,Gran San Juan,7000,201403,desvio,1317
+27,Gran San Juan,7000,201403,cv,18.8
+27,Gran San Juan,8000,201403,desvio,1404
+27,Gran San Juan,8000,201403,cv,17.5
+27,Gran San Juan,9000,201403,desvio,1485
+27,Gran San Juan,9000,201403,cv,16.5
+27,Gran San Juan,10000,201403,desvio,1561
+27,Gran San Juan,10000,201403,cv,15.6
+27,Gran San Juan,12000,201403,desvio,1703
+27,Gran San Juan,12000,201403,cv,14.2
+27,Gran San Juan,14000,201403,desvio,1832
+27,Gran San Juan,14000,201403,cv,13.1
+27,Gran San Juan,16000,201403,desvio,1953
+27,Gran San Juan,16000,201403,cv,12.2
+27,Gran San Juan,18000,201403,desvio,2065
+27,Gran San Juan,18000,201403,cv,11.5
+27,Gran San Juan,20000,201403,desvio,2172
+27,Gran San Juan,20000,201403,cv,10.9
+27,Gran San Juan,24000,201403,desvio,2369
+27,Gran San Juan,24000,201403,cv,9.9
+27,Gran San Juan,28000,201403,desvio,2549
+27,Gran San Juan,28000,201403,cv,9.1
+27,Gran San Juan,32000,201403,desvio,2716
+27,Gran San Juan,32000,201403,cv,8.5
+27,Gran San Juan,36000,201403,desvio,2873
+27,Gran San Juan,36000,201403,cv,8
+27,Gran San Juan,43000,201403,desvio,3127
+27,Gran San Juan,43000,201403,cv,7.3
+27,Gran San Juan,50000,201403,desvio,3360
+27,Gran San Juan,50000,201403,cv,6.7
+27,Gran San Juan,57000,201403,desvio,3576
+27,Gran San Juan,57000,201403,cv,6.3
+27,Gran San Juan,64000,201403,desvio,3779
+27,Gran San Juan,64000,201403,cv,5.9
+27,Gran San Juan,71000,201403,desvio,3970
+27,Gran San Juan,71000,201403,cv,5.6
+27,Gran San Juan,78000,201403,desvio,4152
+27,Gran San Juan,78000,201403,cv,5.3
+27,Gran San Juan,90000,201403,desvio,4445
+27,Gran San Juan,90000,201403,cv,4.9
+27,Gran San Juan,102000,201403,desvio,4718
+27,Gran San Juan,102000,201403,cv,4.6
+27,Gran San Juan,117000,201403,desvio,5037
+27,Gran San Juan,117000,201403,cv,4.3
+27,Gran San Juan,132000,201403,desvio,5334
+27,Gran San Juan,132000,201403,cv,4
+27,Gran San Juan,150000,201403,desvio,5669
+27,Gran San Juan,150000,201403,cv,3.8
+27,Gran San Juan,168000,201403,desvio,5984
+27,Gran San Juan,168000,201403,cv,3.6
+27,Gran San Juan,186000,201403,desvio,6281
+27,Gran San Juan,186000,201403,cv,3.4
+27,Gran San Juan,204000,201403,desvio,6563
+27,Gran San Juan,204000,201403,cv,3.2
+27,Gran San Juan,222000,201403,desvio,6833
+27,Gran San Juan,222000,201403,cv,3.1
+27,Gran San Juan,240000,201403,desvio,7092
+27,Gran San Juan,240000,201403,cv,3
+27,Gran San Juan,258000,201403,desvio,7340
+27,Gran San Juan,258000,201403,cv,2.8
+27,Gran San Juan,276000,201403,desvio,7580
+27,Gran San Juan,276000,201403,cv,2.7
+27,Gran San Juan,298000,201403,desvio,7862
+27,Gran San Juan,298000,201403,cv,2.6
+26,San Luis - El Chorrillo,2000,201403,desvio,664
+26,San Luis - El Chorrillo,2000,201403,cv,33.2
+26,San Luis - El Chorrillo,3000,201403,desvio,742
+26,San Luis - El Chorrillo,3000,201403,cv,24.7
+26,San Luis - El Chorrillo,4000,201403,desvio,804
+26,San Luis - El Chorrillo,4000,201403,cv,20.1
+26,San Luis - El Chorrillo,5000,201403,desvio,855
+26,San Luis - El Chorrillo,5000,201403,cv,17.1
+26,San Luis - El Chorrillo,6000,201403,desvio,899
+26,San Luis - El Chorrillo,6000,201403,cv,15
+26,San Luis - El Chorrillo,8000,201403,desvio,973
+26,San Luis - El Chorrillo,8000,201403,cv,12.2
+26,San Luis - El Chorrillo,10000,201403,desvio,1034
+26,San Luis - El Chorrillo,10000,201403,cv,10.3
+26,San Luis - El Chorrillo,12000,201403,desvio,1088
+26,San Luis - El Chorrillo,12000,201403,cv,9.1
+26,San Luis - El Chorrillo,16000,201403,desvio,1178
+26,San Luis - El Chorrillo,16000,201403,cv,7.4
+26,San Luis - El Chorrillo,20000,201403,desvio,1252
+26,San Luis - El Chorrillo,20000,201403,cv,6.3
+26,San Luis - El Chorrillo,24000,201403,desvio,1317
+26,San Luis - El Chorrillo,24000,201403,cv,5.5
+26,San Luis - El Chorrillo,28000,201403,desvio,1374
+26,San Luis - El Chorrillo,28000,201403,cv,4.9
+26,San Luis - El Chorrillo,32000,201403,desvio,1425
+26,San Luis - El Chorrillo,32000,201403,cv,4.5
+26,San Luis - El Chorrillo,38000,201403,desvio,1495
+26,San Luis - El Chorrillo,38000,201403,cv,3.9
+26,San Luis - El Chorrillo,44000,201403,desvio,1556
+26,San Luis - El Chorrillo,44000,201403,cv,3.5
+26,San Luis - El Chorrillo,50000,201403,desvio,1612
+26,San Luis - El Chorrillo,50000,201403,cv,3.2
+26,San Luis - El Chorrillo,56000,201403,desvio,1663
+26,San Luis - El Chorrillo,56000,201403,cv,3
+26,San Luis - El Chorrillo,62000,201403,desvio,1711
+26,San Luis - El Chorrillo,62000,201403,cv,2.8
+26,San Luis - El Chorrillo,68000,201403,desvio,1755
+26,San Luis - El Chorrillo,68000,201403,cv,2.6
+26,San Luis - El Chorrillo,80000,201403,desvio,1835
+26,San Luis - El Chorrillo,80000,201403,cv,2.3
+26,San Luis - El Chorrillo,92000,201403,desvio,1907
+26,San Luis - El Chorrillo,92000,201403,cv,2.1
+26,San Luis - El Chorrillo,104000,201403,desvio,1973
+26,San Luis - El Chorrillo,104000,201403,cv,1.9
+26,San Luis - El Chorrillo,116000,201403,desvio,2033
+26,San Luis - El Chorrillo,116000,201403,cv,1.8
+26,San Luis - El Chorrillo,128000,201403,desvio,2089
+26,San Luis - El Chorrillo,128000,201403,cv,1.6
+26,San Luis - El Chorrillo,140000,201403,desvio,2141
+26,San Luis - El Chorrillo,140000,201403,cv,1.5
+38,San Nicolás - Villa Const.,2000,201403,desvio,565
+38,San Nicolás - Villa Const.,2000,201403,cv,28.3
+38,San Nicolás - Villa Const.,3000,201403,desvio,659
+38,San Nicolás - Villa Const.,3000,201403,cv,22
+38,San Nicolás - Villa Const.,4000,201403,desvio,735
+38,San Nicolás - Villa Const.,4000,201403,cv,18.4
+38,San Nicolás - Villa Const.,5000,201403,desvio,800
+38,San Nicolás - Villa Const.,5000,201403,cv,16
+38,San Nicolás - Villa Const.,6000,201403,desvio,857
+38,San Nicolás - Villa Const.,6000,201403,cv,14.3
+38,San Nicolás - Villa Const.,7000,201403,desvio,909
+38,San Nicolás - Villa Const.,7000,201403,cv,13
+38,San Nicolás - Villa Const.,8000,201403,desvio,956
+38,San Nicolás - Villa Const.,8000,201403,cv,11.9
+38,San Nicolás - Villa Const.,10000,201403,desvio,1040
+38,San Nicolás - Villa Const.,10000,201403,cv,10.4
+38,San Nicolás - Villa Const.,12000,201403,desvio,1114
+38,San Nicolás - Villa Const.,12000,201403,cv,9.3
+38,San Nicolás - Villa Const.,14000,201403,desvio,1182
+38,San Nicolás - Villa Const.,14000,201403,cv,8.4
+38,San Nicolás - Villa Const.,17000,201403,desvio,1272
+38,San Nicolás - Villa Const.,17000,201403,cv,7.5
+38,San Nicolás - Villa Const.,20000,201403,desvio,1352
+38,San Nicolás - Villa Const.,20000,201403,cv,6.8
+38,San Nicolás - Villa Const.,23000,201403,desvio,1426
+38,San Nicolás - Villa Const.,23000,201403,cv,6.2
+38,San Nicolás - Villa Const.,26000,201403,desvio,1494
+38,San Nicolás - Villa Const.,26000,201403,cv,5.7
+38,San Nicolás - Villa Const.,29000,201403,desvio,1557
+38,San Nicolás - Villa Const.,29000,201403,cv,5.4
+38,San Nicolás - Villa Const.,32000,201403,desvio,1616
+38,San Nicolás - Villa Const.,32000,201403,cv,5.1
+38,San Nicolás - Villa Const.,35000,201403,desvio,1672
+38,San Nicolás - Villa Const.,35000,201403,cv,4.8
+38,San Nicolás - Villa Const.,41000,201403,desvio,1775
+38,San Nicolás - Villa Const.,41000,201403,cv,4.3
+38,San Nicolás - Villa Const.,47000,201403,desvio,1870
+38,San Nicolás - Villa Const.,47000,201403,cv,4
+38,San Nicolás - Villa Const.,55000,201403,desvio,1984
+38,San Nicolás - Villa Const.,55000,201403,cv,3.6
+38,San Nicolás - Villa Const.,63000,201403,desvio,2089
+38,San Nicolás - Villa Const.,63000,201403,cv,3.3
+38,San Nicolás - Villa Const.,71000,201403,desvio,2186
+38,San Nicolás - Villa Const.,71000,201403,cv,3.1
+38,San Nicolás - Villa Const.,79000,201403,desvio,2276
+38,San Nicolás - Villa Const.,79000,201403,cv,2.9
+38,San Nicolás - Villa Const.,87000,201403,desvio,2361
+38,San Nicolás - Villa Const.,87000,201403,cv,2.7
+38,San Nicolás - Villa Const.,95000,201403,desvio,2441
+38,San Nicolás - Villa Const.,95000,201403,cv,2.6
+38,San Nicolás - Villa Const.,103000,201403,desvio,2517
+38,San Nicolás - Villa Const.,103000,201403,cv,2.4
+38,San Nicolás - Villa Const.,111000,201403,desvio,2589
+38,San Nicolás - Villa Const.,111000,201403,cv,2.3
+38,San Nicolás - Villa Const.,119000,201403,desvio,2658
+38,San Nicolás - Villa Const.,119000,201403,cv,2.2
+5,Gran Santa Fé,7000,201403,desvio,1819
+5,Gran Santa Fé,7000,201403,cv,26
+5,Gran Santa Fé,8000,201403,desvio,1910
+5,Gran Santa Fé,8000,201403,cv,23.9
+5,Gran Santa Fé,9000,201403,desvio,1994
+5,Gran Santa Fé,9000,201403,cv,22.2
+5,Gran Santa Fé,10000,201403,desvio,2072
+5,Gran Santa Fé,10000,201403,cv,20.7
+5,Gran Santa Fé,11000,201403,desvio,2146
+5,Gran Santa Fé,11000,201403,cv,19.5
+5,Gran Santa Fé,13000,201403,desvio,2281
+5,Gran Santa Fé,13000,201403,cv,17.5
+5,Gran Santa Fé,16000,201403,desvio,2461
+5,Gran Santa Fé,16000,201403,cv,15.4
+5,Gran Santa Fé,19000,201403,desvio,2620
+5,Gran Santa Fé,19000,201403,cv,13.8
+5,Gran Santa Fé,22000,201403,desvio,2764
+5,Gran Santa Fé,22000,201403,cv,12.6
+5,Gran Santa Fé,25000,201403,desvio,2897
+5,Gran Santa Fé,25000,201403,cv,11.6
+5,Gran Santa Fé,28000,201403,desvio,3019
+5,Gran Santa Fé,28000,201403,cv,10.8
+5,Gran Santa Fé,33000,201403,desvio,3206
+5,Gran Santa Fé,33000,201403,cv,9.7
+5,Gran Santa Fé,39000,201403,desvio,3408
+5,Gran Santa Fé,39000,201403,cv,8.7
+5,Gran Santa Fé,46000,201403,desvio,3620
+5,Gran Santa Fé,46000,201403,cv,7.9
+5,Gran Santa Fé,66000,201403,desvio,4131
+5,Gran Santa Fé,66000,201403,cv,6.3
+5,Gran Santa Fé,86000,201403,desvio,4550
+5,Gran Santa Fé,86000,201403,cv,5.3
+5,Gran Santa Fé,106000,201403,desvio,4912
+5,Gran Santa Fé,106000,201403,cv,4.6
+5,Gran Santa Fé,126000,201403,desvio,5232
+5,Gran Santa Fé,126000,201403,cv,4.2
+5,Gran Santa Fé,146000,201403,desvio,5522
+5,Gran Santa Fé,146000,201403,cv,3.8
+5,Gran Santa Fé,166000,201403,desvio,5787
+5,Gran Santa Fé,166000,201403,cv,3.5
+5,Gran Santa Fé,186000,201403,desvio,6033
+5,Gran Santa Fé,186000,201403,cv,3.2
+5,Gran Santa Fé,206000,201403,desvio,6262
+5,Gran Santa Fé,206000,201403,cv,3
+5,Gran Santa Fé,226000,201403,desvio,6478
+5,Gran Santa Fé,226000,201403,cv,2.9
+5,Gran Santa Fé,246000,201403,desvio,6682
+5,Gran Santa Fé,246000,201403,cv,2.7
+5,Gran Santa Fé,266000,201403,desvio,6875
+5,Gran Santa Fé,266000,201403,cv,2.6
+5,Gran Santa Fé,286000,201403,desvio,7060
+5,Gran Santa Fé,286000,201403,cv,2.5
+5,Gran Santa Fé,306000,201403,desvio,7237
+5,Gran Santa Fé,306000,201403,cv,2.4
+5,Gran Santa Fé,326000,201403,desvio,7406
+5,Gran Santa Fé,326000,201403,cv,2.3
+5,Gran Santa Fé,346000,201403,desvio,7569
+5,Gran Santa Fé,346000,201403,cv,2.2
+5,Gran Santa Fé,366000,201403,desvio,7726
+5,Gran Santa Fé,366000,201403,cv,2.1
+30,Santa Rosa - Toay,2000,201403,desvio,703
+30,Santa Rosa - Toay,2000,201403,cv,35.1
+30,Santa Rosa - Toay,3000,201403,desvio,767
+30,Santa Rosa - Toay,3000,201403,cv,25.6
+30,Santa Rosa - Toay,4000,201403,desvio,816
+30,Santa Rosa - Toay,4000,201403,cv,20.4
+30,Santa Rosa - Toay,5000,201403,desvio,856
+30,Santa Rosa - Toay,5000,201403,cv,17.1
+30,Santa Rosa - Toay,6000,201403,desvio,890
+30,Santa Rosa - Toay,6000,201403,cv,14.8
+30,Santa Rosa - Toay,7000,201403,desvio,920
+30,Santa Rosa - Toay,7000,201403,cv,13.1
+30,Santa Rosa - Toay,8000,201403,desvio,947
+30,Santa Rosa - Toay,8000,201403,cv,11.8
+30,Santa Rosa - Toay,9000,201403,desvio,971
+30,Santa Rosa - Toay,9000,201403,cv,10.8
+30,Santa Rosa - Toay,10000,201403,desvio,993
+30,Santa Rosa - Toay,10000,201403,cv,9.9
+30,Santa Rosa - Toay,11000,201403,desvio,1014
+30,Santa Rosa - Toay,11000,201403,cv,9.2
+30,Santa Rosa - Toay,13000,201403,desvio,1051
+30,Santa Rosa - Toay,13000,201403,cv,8.1
+30,Santa Rosa - Toay,15000,201403,desvio,1084
+30,Santa Rosa - Toay,15000,201403,cv,7.2
+30,Santa Rosa - Toay,17000,201403,desvio,1113
+30,Santa Rosa - Toay,17000,201403,cv,6.5
+30,Santa Rosa - Toay,19000,201403,desvio,1140
+30,Santa Rosa - Toay,19000,201403,cv,6
+30,Santa Rosa - Toay,21000,201403,desvio,1165
+30,Santa Rosa - Toay,21000,201403,cv,5.5
+30,Santa Rosa - Toay,23000,201403,desvio,1188
+30,Santa Rosa - Toay,23000,201403,cv,5.2
+30,Santa Rosa - Toay,28000,201403,desvio,1239
+30,Santa Rosa - Toay,28000,201403,cv,4.4
+30,Santa Rosa - Toay,33000,201403,desvio,1284
+30,Santa Rosa - Toay,33000,201403,cv,3.9
+30,Santa Rosa - Toay,38000,201403,desvio,1323
+30,Santa Rosa - Toay,38000,201403,cv,3.5
+30,Santa Rosa - Toay,43000,201403,desvio,1359
+30,Santa Rosa - Toay,43000,201403,cv,3.2
+30,Santa Rosa - Toay,50000,201403,desvio,1403
+30,Santa Rosa - Toay,50000,201403,cv,2.8
+30,Santa Rosa - Toay,57000,201403,desvio,1444
+30,Santa Rosa - Toay,57000,201403,cv,2.5
+30,Santa Rosa - Toay,64000,201403,desvio,1480
+30,Santa Rosa - Toay,64000,201403,cv,2.3
+30,Santa Rosa - Toay,71000,201403,desvio,1513
+30,Santa Rosa - Toay,71000,201403,cv,2.1
+30,Santa Rosa - Toay,78000,201403,desvio,1544
+30,Santa Rosa - Toay,78000,201403,cv,2
+18,S. del Estero - La Banda,4000,201403,desvio,1360
+18,S. del Estero - La Banda,4000,201403,cv,34
+18,S. del Estero - La Banda,5000,201403,desvio,1441
+18,S. del Estero - La Banda,5000,201403,cv,28.8
+18,S. del Estero - La Banda,6000,201403,desvio,1510
+18,S. del Estero - La Banda,6000,201403,cv,25.2
+18,S. del Estero - La Banda,7000,201403,desvio,1572
+18,S. del Estero - La Banda,7000,201403,cv,22.5
+18,S. del Estero - La Banda,8000,201403,desvio,1627
+18,S. del Estero - La Banda,8000,201403,cv,20.3
+18,S. del Estero - La Banda,9000,201403,desvio,1677
+18,S. del Estero - La Banda,9000,201403,cv,18.6
+18,S. del Estero - La Banda,10000,201403,desvio,1723
+18,S. del Estero - La Banda,10000,201403,cv,17.2
+18,S. del Estero - La Banda,11000,201403,desvio,1766
+18,S. del Estero - La Banda,11000,201403,cv,16.1
+18,S. del Estero - La Banda,12000,201403,desvio,1806
+18,S. del Estero - La Banda,12000,201403,cv,15.1
+18,S. del Estero - La Banda,14000,201403,desvio,1880
+18,S. del Estero - La Banda,14000,201403,cv,13.4
+18,S. del Estero - La Banda,16000,201403,desvio,1946
+18,S. del Estero - La Banda,16000,201403,cv,12.2
+18,S. del Estero - La Banda,18000,201403,desvio,2006
+18,S. del Estero - La Banda,18000,201403,cv,11.1
+18,S. del Estero - La Banda,21000,201403,desvio,2087
+18,S. del Estero - La Banda,21000,201403,cv,9.9
+18,S. del Estero - La Banda,24000,201403,desvio,2161
+18,S. del Estero - La Banda,24000,201403,cv,9
+18,S. del Estero - La Banda,29000,201403,desvio,2269
+18,S. del Estero - La Banda,29000,201403,cv,7.8
+18,S. del Estero - La Banda,34000,201403,desvio,2364
+18,S. del Estero - La Banda,34000,201403,cv,7
+18,S. del Estero - La Banda,39000,201403,desvio,2449
+18,S. del Estero - La Banda,39000,201403,cv,6.3
+18,S. del Estero - La Banda,44000,201403,desvio,2527
+18,S. del Estero - La Banda,44000,201403,cv,5.7
+18,S. del Estero - La Banda,49000,201403,desvio,2598
+18,S. del Estero - La Banda,49000,201403,cv,5.3
+18,S. del Estero - La Banda,59000,201403,desvio,2726
+18,S. del Estero - La Banda,59000,201403,cv,4.6
+18,S. del Estero - La Banda,69000,201403,desvio,2838
+18,S. del Estero - La Banda,69000,201403,cv,4.1
+18,S. del Estero - La Banda,79000,201403,desvio,2939
+18,S. del Estero - La Banda,79000,201403,cv,3.7
+18,S. del Estero - La Banda,89000,201403,desvio,3031
+18,S. del Estero - La Banda,89000,201403,cv,3.4
+18,S. del Estero - La Banda,99000,201403,desvio,3116
+18,S. del Estero - La Banda,99000,201403,cv,3.1
+18,S. del Estero - La Banda,119000,201403,desvio,3267
+18,S. del Estero - La Banda,119000,201403,cv,2.7
+18,S. del Estero - La Banda,139000,201403,desvio,3401
+18,S. del Estero - La Banda,139000,201403,cv,2.4
+18,S. del Estero - La Banda,159000,201403,desvio,3521
+18,S. del Estero - La Banda,159000,201403,cv,2.2
+18,S. del Estero - La Banda,179000,201403,desvio,3631
+18,S. del Estero - La Banda,179000,201403,cv,2
+18,S. del Estero - La Banda,199000,201403,desvio,3732
+18,S. del Estero - La Banda,199000,201403,cv,1.9
+18,S. del Estero - La Banda,219000,201403,desvio,3825
+18,S. del Estero - La Banda,219000,201403,cv,1.7
+18,S. del Estero - La Banda,239000,201403,desvio,3912
+18,S. del Estero - La Banda,239000,201403,cv,1.6
+1,Total 31 Algomerados Urbanos,100000,201403,desvio,19788
+1,NA,100000,201403,cv,19.8
+1,Total 31 Algomerados Urbanos,150000,201403,desvio,21716
+1,NA,150000,201403,cv,14.5
+1,Total 31 Algomerados Urbanos,200000,201403,desvio,23197
+1,NA,200000,201403,cv,11.6
+1,Total 31 Algomerados Urbanos,250000,201403,desvio,24415
+1,NA,250000,201403,cv,9.8
+1,Total 31 Algomerados Urbanos,300000,201403,desvio,25457
+1,NA,300000,201403,cv,8.5
+1,Total 31 Algomerados Urbanos,350000,201403,desvio,26373
+1,NA,350000,201403,cv,7.5
+1,Total 31 Algomerados Urbanos,400000,201403,desvio,27193
+1,NA,400000,201403,cv,6.8
+1,Total 31 Algomerados Urbanos,450000,201403,desvio,27938
+1,NA,450000,201403,cv,6.2
+1,Total 31 Algomerados Urbanos,500000,201403,desvio,28621
+1,NA,500000,201403,cv,5.7
+1,Total 31 Algomerados Urbanos,550000,201403,desvio,29253
+1,NA,550000,201403,cv,5.3
+1,Total 31 Algomerados Urbanos,600000,201403,desvio,29843
+1,NA,600000,201403,cv,5
+1,Total 31 Algomerados Urbanos,650000,201403,desvio,30395
+1,NA,650000,201403,cv,4.7
+1,Total 31 Algomerados Urbanos,700000,201403,desvio,30916
+1,NA,700000,201403,cv,4.4
+1,Total 31 Algomerados Urbanos,750000,201403,desvio,31409
+1,NA,750000,201403,cv,4.2
+1,Total 31 Algomerados Urbanos,800000,201403,desvio,31878
+1,NA,800000,201403,cv,4
+1,Total 31 Algomerados Urbanos,850000,201403,desvio,32324
+1,NA,850000,201403,cv,3.8
+1,Total 31 Algomerados Urbanos,900000,201403,desvio,32750
+1,NA,900000,201403,cv,3.6
+1,Total 31 Algomerados Urbanos,950000,201403,desvio,33159
+1,NA,950000,201403,cv,3.5
+1,Total 31 Algomerados Urbanos,1000000,201403,desvio,33551
+1,NA,1000000,201403,cv,3.4
+1,Total 31 Algomerados Urbanos,1050000,201403,desvio,33929
+1,NA,1050000,201403,cv,3.2
+1,Total 31 Algomerados Urbanos,1100000,201403,desvio,34293
+1,NA,1100000,201403,cv,3.1
+1,Total 31 Algomerados Urbanos,1150000,201403,desvio,34644
+1,NA,1150000,201403,cv,3
+1,Total 31 Algomerados Urbanos,1200000,201403,desvio,34984
+1,NA,1200000,201403,cv,2.9
+1,Total 31 Algomerados Urbanos,1300000,201403,desvio,35632
+1,NA,1300000,201403,cv,2.7
+1,Total 31 Algomerados Urbanos,1400000,201403,desvio,36242
+1,NA,1400000,201403,cv,2.6
+1,Total 31 Algomerados Urbanos,1500000,201403,desvio,36820
+1,NA,1500000,201403,cv,2.5
+1,Total 31 Algomerados Urbanos,1600000,201403,desvio,37369
+1,NA,1600000,201403,cv,2.3
+1,Total 31 Algomerados Urbanos,1700000,201403,desvio,37892
+1,NA,1700000,201403,cv,2.2
+1,Total 31 Algomerados Urbanos,1800000,201403,desvio,38392
+1,NA,1800000,201403,cv,2.1
+1,Total 31 Algomerados Urbanos,1900000,201403,desvio,38871
+1,NA,1900000,201403,cv,2
+1,Total 31 Algomerados Urbanos,2100000,201403,desvio,39774
+1,NA,2100000,201403,cv,1.9
+1,Total 31 Algomerados Urbanos,2300000,201403,desvio,40612
+1,NA,2300000,201403,cv,1.8
+1,Total 31 Algomerados Urbanos,2500000,201403,desvio,41396
+1,NA,2500000,201403,cv,1.7
+1,Total 31 Algomerados Urbanos,2700000,201403,desvio,42133
+1,NA,2700000,201403,cv,1.6
+1,Total 31 Algomerados Urbanos,2900000,201403,desvio,42829
+1,NA,2900000,201403,cv,1.5
+91,Rawson - Trelew,2000,201403,desvio,509
+91,Rawson - Trelew,2000,201403,cv,25.5
+91,Rawson - Trelew,3000,201403,desvio,582
+91,Rawson - Trelew,3000,201403,cv,19.4
+91,Rawson - Trelew,4000,201403,desvio,640
+91,Rawson - Trelew,4000,201403,cv,16
+91,Rawson - Trelew,5000,201403,desvio,689
+91,Rawson - Trelew,5000,201403,cv,13.8
+91,Rawson - Trelew,6000,201403,desvio,732
+91,Rawson - Trelew,6000,201403,cv,12.2
+91,Rawson - Trelew,7000,201403,desvio,770
+91,Rawson - Trelew,7000,201403,cv,11
+91,Rawson - Trelew,8000,201403,desvio,805
+91,Rawson - Trelew,8000,201403,cv,10.1
+91,Rawson - Trelew,10000,201403,desvio,866
+91,Rawson - Trelew,10000,201403,cv,8.7
+91,Rawson - Trelew,12000,201403,desvio,920
+91,Rawson - Trelew,12000,201403,cv,7.7
+91,Rawson - Trelew,14000,201403,desvio,968
+91,Rawson - Trelew,14000,201403,cv,6.9
+91,Rawson - Trelew,16000,201403,desvio,1011
+91,Rawson - Trelew,16000,201403,cv,6.3
+91,Rawson - Trelew,20000,201403,desvio,1088
+91,Rawson - Trelew,20000,201403,cv,5.4
+91,Rawson - Trelew,26000,201403,desvio,1187
+91,Rawson - Trelew,26000,201403,cv,4.6
+91,Rawson - Trelew,32000,201403,desvio,1271
+91,Rawson - Trelew,32000,201403,cv,4
+91,Rawson - Trelew,38000,201403,desvio,1345
+91,Rawson - Trelew,38000,201403,cv,3.5
+91,Rawson - Trelew,44000,201403,desvio,1412
+91,Rawson - Trelew,44000,201403,cv,3.2
+91,Rawson - Trelew,50000,201403,desvio,1472
+91,Rawson - Trelew,50000,201403,cv,2.9
+91,Rawson - Trelew,56000,201403,desvio,1529
+91,Rawson - Trelew,56000,201403,cv,2.7
+91,Rawson - Trelew,62000,201403,desvio,1581
+91,Rawson - Trelew,62000,201403,cv,2.5
+91,Rawson - Trelew,68000,201403,desvio,1630
+91,Rawson - Trelew,68000,201403,cv,2.4
+91,Rawson - Trelew,74000,201403,desvio,1676
+91,Rawson - Trelew,74000,201403,cv,2.3
+91,Rawson - Trelew,84000,201403,desvio,1747
+91,Rawson - Trelew,84000,201403,cv,2.1
+29,Gran Tucumán - T. Viejo,8000,201403,desvio,3505
+29,Gran Tucumán - T. Viejo,8000,201403,cv,43.8
+29,Gran Tucumán - T. Viejo,9000,201403,desvio,3559
+29,Gran Tucumán - T. Viejo,9000,201403,cv,39.5
+29,Gran Tucumán - T. Viejo,10000,201403,desvio,3607
+29,Gran Tucumán - T. Viejo,10000,201403,cv,36.1
+29,Gran Tucumán - T. Viejo,11000,201403,desvio,3652
+29,Gran Tucumán - T. Viejo,11000,201403,cv,33.2
+29,Gran Tucumán - T. Viejo,13000,201403,desvio,3731
+29,Gran Tucumán - T. Viejo,13000,201403,cv,28.7
+29,Gran Tucumán - T. Viejo,15000,201403,desvio,3801
+29,Gran Tucumán - T. Viejo,15000,201403,cv,25.3
+29,Gran Tucumán - T. Viejo,17000,201403,desvio,3862
+29,Gran Tucumán - T. Viejo,17000,201403,cv,22.7
+29,Gran Tucumán - T. Viejo,19000,201403,desvio,3918
+29,Gran Tucumán - T. Viejo,19000,201403,cv,20.6
+29,Gran Tucumán - T. Viejo,21000,201403,desvio,3969
+29,Gran Tucumán - T. Viejo,21000,201403,cv,18.9
+29,Gran Tucumán - T. Viejo,25000,201403,desvio,4059
+29,Gran Tucumán - T. Viejo,25000,201403,cv,16.2
+29,Gran Tucumán - T. Viejo,29000,201403,desvio,4137
+29,Gran Tucumán - T. Viejo,29000,201403,cv,14.3
+29,Gran Tucumán - T. Viejo,33000,201403,desvio,4207
+29,Gran Tucumán - T. Viejo,33000,201403,cv,12.7
+29,Gran Tucumán - T. Viejo,37000,201403,desvio,4269
+29,Gran Tucumán - T. Viejo,37000,201403,cv,11.5
+29,Gran Tucumán - T. Viejo,43000,201403,desvio,4353
+29,Gran Tucumán - T. Viejo,43000,201403,cv,10.1
+29,Gran Tucumán - T. Viejo,49000,201403,desvio,4427
+29,Gran Tucumán - T. Viejo,49000,201403,cv,9
+29,Gran Tucumán - T. Viejo,55000,201403,desvio,4493
+29,Gran Tucumán - T. Viejo,55000,201403,cv,8.2
+29,Gran Tucumán - T. Viejo,61000,201403,desvio,4553
+29,Gran Tucumán - T. Viejo,61000,201403,cv,7.5
+29,Gran Tucumán - T. Viejo,71000,201403,desvio,4643
+29,Gran Tucumán - T. Viejo,71000,201403,cv,6.5
+29,Gran Tucumán - T. Viejo,81000,201403,desvio,4723
+29,Gran Tucumán - T. Viejo,81000,201403,cv,5.8
+29,Gran Tucumán - T. Viejo,91000,201403,desvio,4794
+29,Gran Tucumán - T. Viejo,91000,201403,cv,5.3
+29,Gran Tucumán - T. Viejo,111000,201403,desvio,4919
+29,Gran Tucumán - T. Viejo,111000,201403,cv,4.4
+29,Gran Tucumán - T. Viejo,151000,201403,desvio,5117
+29,Gran Tucumán - T. Viejo,151000,201403,cv,3.4
+29,Gran Tucumán - T. Viejo,191000,201403,desvio,5275
+29,Gran Tucumán - T. Viejo,191000,201403,cv,2.8
+29,Gran Tucumán - T. Viejo,231000,201403,desvio,5406
+29,Gran Tucumán - T. Viejo,231000,201403,cv,2.3
+29,Gran Tucumán - T. Viejo,271000,201403,desvio,5518
+29,Gran Tucumán - T. Viejo,271000,201403,cv,2
+29,Gran Tucumán - T. Viejo,311000,201403,desvio,5617
+29,Gran Tucumán - T. Viejo,311000,201403,cv,1.8
+29,Gran Tucumán - T. Viejo,351000,201403,desvio,5705
+29,Gran Tucumán - T. Viejo,351000,201403,cv,1.6
+29,Gran Tucumán - T. Viejo,391000,201403,desvio,5785
+29,Gran Tucumán - T. Viejo,391000,201403,cv,1.5
+29,Gran Tucumán - T. Viejo,471000,201403,desvio,5925
+29,Gran Tucumán - T. Viejo,471000,201403,cv,1.3
+29,Gran Tucumán - T. Viejo,551000,201403,desvio,6046
+29,Gran Tucumán - T. Viejo,551000,201403,cv,1.1
+31,Ushuaia - Río Grande,2000,201403,desvio,661
+31,Ushuaia - Río Grande,2000,201403,cv,33.1
+31,Ushuaia - Río Grande,3000,201403,desvio,729
+31,Ushuaia - Río Grande,3000,201403,cv,24.3
+31,Ushuaia - Río Grande,4000,201403,desvio,782
+31,Ushuaia - Río Grande,4000,201403,cv,19.5
+31,Ushuaia - Río Grande,5000,201403,desvio,825
+31,Ushuaia - Río Grande,5000,201403,cv,16.5
+31,Ushuaia - Río Grande,6000,201403,desvio,862
+31,Ushuaia - Río Grande,6000,201403,cv,14.4
+31,Ushuaia - Río Grande,7000,201403,desvio,895
+31,Ushuaia - Río Grande,7000,201403,cv,12.8
+31,Ushuaia - Río Grande,8000,201403,desvio,924
+31,Ushuaia - Río Grande,8000,201403,cv,11.6
+31,Ushuaia - Río Grande,10000,201403,desvio,976
+31,Ushuaia - Río Grande,10000,201403,cv,9.8
+31,Ushuaia - Río Grande,12000,201403,desvio,1020
+31,Ushuaia - Río Grande,12000,201403,cv,8.5
+31,Ushuaia - Río Grande,14000,201403,desvio,1058
+31,Ushuaia - Río Grande,14000,201403,cv,7.6
+31,Ushuaia - Río Grande,16000,201403,desvio,1093
+31,Ushuaia - Río Grande,16000,201403,cv,6.8
+31,Ushuaia - Río Grande,18000,201403,desvio,1125
+31,Ushuaia - Río Grande,18000,201403,cv,6.2
+31,Ushuaia - Río Grande,22000,201403,desvio,1181
+31,Ushuaia - Río Grande,22000,201403,cv,5.4
+31,Ushuaia - Río Grande,26000,201403,desvio,1229
+31,Ushuaia - Río Grande,26000,201403,cv,4.7
+31,Ushuaia - Río Grande,30000,201403,desvio,1273
+31,Ushuaia - Río Grande,30000,201403,cv,4.2
+31,Ushuaia - Río Grande,36000,201403,desvio,1330
+31,Ushuaia - Río Grande,36000,201403,cv,3.7
+31,Ushuaia - Río Grande,42000,201403,desvio,1380
+31,Ushuaia - Río Grande,42000,201403,cv,3.3
+31,Ushuaia - Río Grande,48000,201403,desvio,1426
+31,Ushuaia - Río Grande,48000,201403,cv,3
+31,Ushuaia - Río Grande,58000,201403,desvio,1493
+31,Ushuaia - Río Grande,58000,201403,cv,2.6
+31,Ushuaia - Río Grande,68000,201403,desvio,1551
+31,Ushuaia - Río Grande,68000,201403,cv,2.3
+31,Ushuaia - Río Grande,78000,201403,desvio,1603
+31,Ushuaia - Río Grande,78000,201403,cv,2.1
+31,Ushuaia - Río Grande,88000,201403,desvio,1651
+31,Ushuaia - Río Grande,88000,201403,cv,1.9
+93,Viedma - Carmen de Pat.,1000,201403,desvio,366
+93,Viedma - Carmen de Pat.,1000,201403,cv,36.6
+93,Viedma - Carmen de Pat.,1500,201403,desvio,403
+93,Viedma - Carmen de Pat.,1500,201403,cv,26.8
+93,Viedma - Carmen de Pat.,2000,201403,desvio,431
+93,Viedma - Carmen de Pat.,2000,201403,cv,21.5
+93,Viedma - Carmen de Pat.,2500,201403,desvio,454
+93,Viedma - Carmen de Pat.,2500,201403,cv,18.2
+93,Viedma - Carmen de Pat.,3000,201403,desvio,474
+93,Viedma - Carmen de Pat.,3000,201403,cv,15.8
+93,Viedma - Carmen de Pat.,3500,201403,desvio,492
+93,Viedma - Carmen de Pat.,3500,201403,cv,14.1
+93,Viedma - Carmen de Pat.,4000,201403,desvio,508
+93,Viedma - Carmen de Pat.,4000,201403,cv,12.7
+93,Viedma - Carmen de Pat.,5000,201403,desvio,535
+93,Viedma - Carmen de Pat.,5000,201403,cv,10.7
+93,Viedma - Carmen de Pat.,6000,201403,desvio,559
+93,Viedma - Carmen de Pat.,6000,201403,cv,9.3
+93,Viedma - Carmen de Pat.,7000,201403,desvio,579
+93,Viedma - Carmen de Pat.,7000,201403,cv,8.3
+93,Viedma - Carmen de Pat.,8000,201403,desvio,598
+93,Viedma - Carmen de Pat.,8000,201403,cv,7.5
+93,Viedma - Carmen de Pat.,9000,201403,desvio,615
+93,Viedma - Carmen de Pat.,9000,201403,cv,6.8
+93,Viedma - Carmen de Pat.,10000,201403,desvio,630
+93,Viedma - Carmen de Pat.,10000,201403,cv,6.3
+93,Viedma - Carmen de Pat.,12000,201403,desvio,658
+93,Viedma - Carmen de Pat.,12000,201403,cv,5.5
+93,Viedma - Carmen de Pat.,14000,201403,desvio,683
+93,Viedma - Carmen de Pat.,14000,201403,cv,4.9
+93,Viedma - Carmen de Pat.,16000,201403,desvio,705
+93,Viedma - Carmen de Pat.,16000,201403,cv,4.4
+93,Viedma - Carmen de Pat.,18000,201403,desvio,725
+93,Viedma - Carmen de Pat.,18000,201403,cv,4
+93,Viedma - Carmen de Pat.,22000,201403,desvio,760
+93,Viedma - Carmen de Pat.,22000,201403,cv,3.5
+93,Viedma - Carmen de Pat.,26000,201403,desvio,790
+93,Viedma - Carmen de Pat.,26000,201403,cv,3
+93,Viedma - Carmen de Pat.,30000,201403,desvio,818
+93,Viedma - Carmen de Pat.,30000,201403,cv,2.7
+93,Viedma - Carmen de Pat.,34000,201403,desvio,842
+93,Viedma - Carmen de Pat.,34000,201403,cv,2.5
+93,Viedma - Carmen de Pat.,38000,201403,desvio,865
+93,Viedma - Carmen de Pat.,38000,201403,cv,2.3
+93,Viedma - Carmen de Pat.,42000,201403,desvio,885
+93,Viedma - Carmen de Pat.,42000,201403,cv,2.1
+93,Viedma - Carmen de Pat.,46000,201403,desvio,905
+93,Viedma - Carmen de Pat.,46000,201403,cv,2
+93,Viedma - Carmen de Pat.,50000,201403,desvio,923
+93,Viedma - Carmen de Pat.,50000,201403,cv,1.8
+93,Viedma - Carmen de Pat.,54000,201403,desvio,940
+93,Viedma - Carmen de Pat.,54000,201403,cv,1.7
