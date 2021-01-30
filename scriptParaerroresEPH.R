@@ -15,11 +15,21 @@ DSz <- function(z,cv) round(z*cv/100,2) # tal que cv sea el coeficiente de varia
 #calculo la DS de la tasa como el producto entre la tasa de actividad y su CV, redondeo a 2 digits
 
 # para toda tasa Z = Y/X*100
-error_tasasEPH <- function(num,den) {
+tasasEPH <- function(num,den) {
     cvx <- closest_error_eph(num)
     cvy <- closest_error_eph(den)
     z = 100*num/den
     se <- DSz(z,CVz(cvx, cvy))
-    print(paste("Tasa",round(z,2),"\n Error Estandar",se))
+    resultado <- list(tasa = z, stderror = se)
+    return(resultado)
 }
 
+limites <- function(tasasEPH, puntajez) {
+    Li = tasasEPH$tasa - tasasEPH$stderror*puntajez
+    Ls = tasasEPH$tasa + tasasEPH$stderror*puntajez
+    
+    cat(paste(paste("Tasa Estimada =", round(tasasEPH$tasa,2)),
+              paste("Lim. Inf. = ",round(Li,2)),
+              paste("Lim. Sup. = ",round(Ls,2)),
+              sep = " \n "))
+}
