@@ -1,7 +1,7 @@
 #'Calculo del desvío estándar y el coeficiente de variación
 #'@description
-#'Funcion para asignar a una  estimación el desvío estándar y el coeficiente de variación
-#' correspondientes en base a la tabla de errores muestrales de INDEC.
+#'Asigna a una estimación de personas el desvío estándar o el coeficiente de variación
+#' correspondientes en base a la tabla de errores muestrales de INDEC para EPH continua desde el tercer trimestre de 2014.
 #'@param value Valor o vector de valores de las estimaciones puntuales para las
 #' que se desea hallar el desvío estándar o el coeficiente de variación
 #'@param codigo_aglo default = "Total". String con el código numerico de aglomerado que
