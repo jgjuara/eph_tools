@@ -1,16 +1,13 @@
 calculate_error <- function(value, codigo_aglo = "Total", measure = "cv") {
-  #codigo_aglo = codigo de aglomerado en errores_muestrales
-  #medida = cv o ds según medida deseada
-  tabla_referencia <- errores_muestrales %>% 
-    filter(aglomerado == codigo_aglo)  %>% 
-    pivot_longer(cols = c("ds","cv"),
-                 names_to = "medida",
-                 values_to = "valores") %>% 
-    filter(medida == measure)
-      
-    find_closest <- function(y) {tabla_referencia[["valores"]][which.min(abs(tabla_referencia[["x"]]-y))]}
-    
-    sapply(value, find_closest)
+  tabla_referencia <- errores_muestrales %>%
+    dplyr::filter(aglomerado == codigo_aglo)  %>%
+    select(x,measure)
+  
+  find_closest <-function(y) {
+    tabla_referencia[[measure]][which.min(abs(tabla_referencia[["x"]] - y))]
+  }
+  
+  sapply(value, find_closest)
 }
 
 calculate_cv_rate <- function(cvx,cvy) {sqrt((cvx)^2 + (cvy)^2)} # tal que Z = X/Y 
