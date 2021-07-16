@@ -1,5 +1,5 @@
 calculate_error <- function(value, codigo_aglo = "Total", measure = "cv") {
-  tabla_referencia <- errores_muestrales %>%
+  tabla_referencia <- eph::errores_muestrales %>%
     dplyr::filter(aglomerado == codigo_aglo)  %>%
     select(x,measure)
   
@@ -20,8 +20,8 @@ calculate_ds_rate <- function(z,cv) {z * cv / 100} # tal que cv sea el coeficien
 
 # para toda tasa Z = X/Y*100
 calculate_rate <- function(numerador,denominador) {
-  cvx <- calculate_error(numerador)
-  cvy <- calculate_error(denominador)
+  cvx <- calculate_errors(numerador)
+  cvy <- calculate_errors(denominador)
   z <- 100 * numerador / denominador
   se <- calculate_ds_rate(z,calculate_cv_rate(cvx, cvy))
   
@@ -32,7 +32,8 @@ limites <- function(tasasEPH, puntaje_z) {
   Li = tasasEPH$tasa - tasasEPH$stderror*puntaje_z
   Ls = tasasEPH$tasa + tasasEPH$stderror*puntaje_z
   
-  cat(paste(paste("Tasa Estimada =", round(tasasEPH$tasa,2)),
+  
+  print(paste(paste("Tasa Estimada =", round(tasasEPH$tasa,2)),
             paste("Lim. Inf. = ",round(Li,2)),
             paste("Lim. Sup. = ",round(Ls,2)),
             sep = " \n "))
@@ -44,7 +45,7 @@ tabulados <- eph::toybase_individual_2016_03 %>%
   eph::organize_labels() %>% 
   eph:: calculate_tabulates(x = "CH03", weights = "PONDERA", add.totals = "row")
 
-calculate_error(tabulados$Freq, measure = "cv")
+calculate_errors(tabulados$Freq, measure = "cv")
 
 tabulados %>% 
   mutate(ds = calculate_error(Freq, measure = "ds"))
@@ -55,5 +56,7 @@ eph::toybase_individual_2016_03 %>%
    eph::calculate_tabulates(x = "CH03",
                           weights = "PONDERA",
                           add.totals = "row") %>% 
-   mutate(ds = calculate_error(Freq, measure = "ds", codigo_aglo = "32"))
+   mutate(ds = calculate_errors(Freq, measure = "ds", codigo_aglo = "32"))
 
+calculate_rate(tabulados$Freq, tabulados$Freq[11])
+limites(calculate_rate(tabulados$Freq, tabulados$Freq[11]), 2)
