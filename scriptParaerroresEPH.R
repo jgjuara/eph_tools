@@ -1,62 +1,57 @@
-calculate_error <- function(value, codigo_aglo = "Total", measure = "cv") {
-  tabla_referencia <- eph::errores_muestrales %>%
-    dplyr::filter(aglomerado == codigo_aglo)  %>%
-    select(x,measure)
-  
-  find_closest <-function(y) {
-    tabla_referencia[[measure]][which.min(abs(tabla_referencia[["x"]] - y))]
-  }
-  
-  sapply(value, find_closest)
-}
+####- DATA -####
 
-calculate_cv_rate <- function(cvx,cvy) {sqrt((cvx)^2 + (cvy)^2)} # tal que Z = X/Y 
-# calculo el CV de la tasa z como la raiz cuadrada de la suma de los cuadrados de 
-# los coeficientes de variacion de las estimaciones que componen la tasa
-# según el manual de error de la EPH.
+# prueba con eph
+tabla <- eph::get_microdata(year = 2020, trimester = 1:4, vars = c("ANO4", "TRIMESTRE","ESTADO", "PONDERA")) %>%
+  unnest() %>% 
+  mutate(periodo = paste(ANO4, TRIMESTRE)) %>% 
+  eph::organize_labels() %>%
+  calculate_tabulates(x = "periodo", 
+                      y = "ESTADO",
+                      weights = "PONDERA")
 
-calculate_ds_rate <- function(z,cv) {z * cv / 100} # tal que cv sea el coeficiente de variacion de Z
-#calculo la DS de la tasa como el producto entre la tasa y su CV
 
+
+####- FUNCIONES -####
 # para toda tasa Z = X/Y*100
-calculate_rate <- function(numerador,denominador) {
-  cvx <- calculate_errors(numerador)
-  cvy <- calculate_errors(denominador)
+calculate_rates <- function(numerador, denominador, codigo_aglo, periodo) {
+  calculate_cv_rate <- function(cvx,cvy) {sqrt((cvx)^2 + (cvy)^2)} # tal que Z = X/Y 
+  # calculo el CV de la tasa z como la raiz cuadrada de la suma de los cuadrados de 
+  # los coeficientes de variacion de las estimaciones que componen la tasa z
+  # según el manual de error de la EPH.
+  
+  calculate_ds_rate <- function(z,cv) {z * cv / 100} 
+  # tal que cv sea el coeficiente de variacion de Z
+  #calculo la DS de la tasa como el producto entre la tasa y su CV
+  
+  cvx <- calculate_errors(numerador, codigo_aglo, periodo)
+  cvy <- calculate_errors(denominador, codigo_aglo, periodo)
   z <- 100 * numerador / denominador
   se <- calculate_ds_rate(z,calculate_cv_rate(cvx, cvy))
   
-  list(tasa = z, stderror = se)
+  tibble(tasa = z, stderror = se)
 }
 
-limites <- function(tasasEPH, puntaje_z) {
-  Li = tasasEPH$tasa - tasasEPH$stderror*puntaje_z
-  Ls = tasasEPH$tasa + tasasEPH$stderror*puntaje_z
+limites <- function(tabulado, puntaje_z) {
+  Li = tabulado$tasa - tabulado$stderror*puntaje_z
+  Ls = tabulado$tasa + tabulado$stderror*puntaje_z
   
-  
-  print(paste(paste("Tasa Estimada =", round(tasasEPH$tasa,2)),
-            paste("Lim. Inf. = ",round(Li,2)),
-            paste("Lim. Sup. = ",round(Ls,2)),
-            sep = " \n "))
+  tibble(tasa = tabulado$tasa, Li, Ls)
 }
 
 
-# prueba con eph
-tabulados <- eph::toybase_individual_2016_03 %>%
-  eph::organize_labels() %>% 
-  eph:: calculate_tabulates(x = "CH03", weights = "PONDERA", add.totals = "row")
+####- PRUEBAS -####
 
-calculate_errors(tabulados$Freq, measure = "cv")
+tabla %>%
+  dplyr::mutate(ds_ocupado = calculate_errors(Ocupado, periodo_eph = "2014.03", measure = "ds"),
+                ds_desocupado = calculate_errors(Desocupado, measure = "ds"))
 
-tabulados %>% 
-  mutate(ds = calculate_error(Freq, measure = "ds"))
+tabla %>% 
+  cbind(calculate_rates(tabla$Desocupado, tabla$Ocupado + tabla$Desocupado))
 
-eph::toybase_individual_2016_03 %>%
-   eph::organize_labels() %>%
-   filter(AGLOMERADO == 32) %>% 
-   eph::calculate_tabulates(x = "CH03",
-                          weights = "PONDERA",
-                          add.totals = "row") %>% 
-   mutate(ds = calculate_errors(Freq, measure = "ds", codigo_aglo = "32"))
+tabla %>% 
+  select(`periodo/ESTADO`, Ocupado, Desocupado) %>% 
+  cbind(limites(calculate_rates(tabla$Desocupado, tabla$Ocupado + tabla$Desocupado),
+        puntaje_z =  2)) 
 
-calculate_rate(tabulados$Freq, tabulados$Freq[11])
-limites(calculate_rate(tabulados$Freq, tabulados$Freq[11]), 2)
+
+
